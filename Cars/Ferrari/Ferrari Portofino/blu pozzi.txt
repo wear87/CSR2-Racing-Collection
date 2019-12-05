@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 765,
+    {
+      "unid": 749,
       "crdb": "Ferrari_PortofinoRewardRecycled_2018",
       "awar": false,
       "grsp": [
@@ -24,19 +20,19 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 6,
-      "orpi": 6,
-      "apiid": 818,
-      "oriid": 818,
-      "apcid": 13,
-      "orcid": 13,
+      "appi": 15,
+      "orpi": 15,
+      "apiid": 813,
+      "oriid": 813,
+      "apcid": 16,
+      "orcid": 16,
       "aplid": -2147483648,
       "orlid": -2147483648,
       "aplzsid": -2147483648,
       "orlzsid": -2147483648,
       "apln": "",
       "apcn": [
-        "Ferrari_PortofinoRewardRecycled_2018_Wheel1C_3D"
+        "Ferrari_PortofinoRewardRecycled_2018_Wheel1A_3D"
       ],
       "bqmt": 0.0,
       "bhmt": 0.0,
@@ -617,17 +613,13 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 199,
+      "paid": 188,
       "wpid": 2147483647,
-      "inid": 818,
-      "caid": 13,
+      "inid": 813,
+      "caid": 16,
       "lzsid": 2147483647,
       "livid": 2147483647,
-      "whbn": "Wheel1C_3D",
+      "whbn": "Wheel1A_3D",
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 970,
+    {
+      "unid": 745,
       "crdb": "Ferrari_PortofinoRewardRecycled_2018",
       "awar": false,
       "grsp": [
@@ -598,8 +594,6 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
       "cppi": 602,
       "cepi": 0,
       "tdut": 16.089,
@@ -629,7 +623,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
