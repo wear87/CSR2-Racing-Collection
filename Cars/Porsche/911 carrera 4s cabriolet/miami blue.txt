@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1163,
+    {
+      "unid": 730,
       "crdb": "Porsche_911Carrera4SCabrioletRewardRecycled_2020",
       "awar": false,
       "grsp": [
@@ -37,7 +33,7 @@
       "orlzsid": -1,
       "apln": "",
       "apcn": [
-        "Porsche_911Carrera4SCabrioletRewardRecycled_2020_Wheel1C_3D"
+        "Porsche_911Carrera4SCabrioletRewardRecycled_2020_Wheel2A_3D"
       ],
       "bqmt": 0.0,
       "bhmt": 0.0,
@@ -624,11 +620,7 @@
       "caid": 83,
       "lzsid": -1,
       "livid": 2147483647,
-      "whbn": "Wheel1C_3D",
+      "whbn": "Wheel2A_3D",
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
