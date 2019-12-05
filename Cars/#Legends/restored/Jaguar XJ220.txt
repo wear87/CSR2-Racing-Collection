@@ -1,0 +1,631 @@
+/**
+*
+* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
+*/
+{
+      "unid": 1557,
+      "crdb": "Jaguar_XJ220Classic_1993",
+      "awar": false,
+      "grsp": [
+        3.0,
+        1.95,
+        1.42,
+        1.09,
+        0.85
+      ],
+      "fidr": 2.88,
+      "nlpr": 0.5,
+      "tafr": 0.5,
+      "titp": 0.5,
+      "trld": 0.0,
+      "tssp": 0.5,
+      "tssr": 0.5,
+      "ttup": 0.5,
+      "ttpp": 0.5,
+      "appi": 0,
+      "orpi": 0,
+      "apiid": 878,
+      "oriid": 878,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": -2147483648,
+      "orlid": -2147483648,
+      "aplzsid": -2147483648,
+      "orlzsid": -2147483648,
+      "apln": "",
+      "apcn": [
+        "Jaguar_XJ220Classic_1993_Wheel2A_3D"
+      ],
+      "bqmt": 0.0,
+      "bhmt": 0.0,
+      "ditr": 0.0,
+      "rcat": 0,
+      "rwon": 0,
+      "msou": 0,
+      "nuub": 0,
+      "ccna": 0,
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "ulpf": false,
+              "fsg": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "rpst": [
+        {
+          "rvlo": 2,
+          "rvlf": 2
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 3,
+          "rvlf": 3
+        }
+      ],
+      "cppi": 602,
+      "cepi": 0,
+      "tdut": 16.08,
+      "tdtt": 16.08,
+      "ttqm": 10.22,
+      "tthm": 16.08,
+      "tt60": 2.715,
+      "tt1h": 5.094,
+      "spqm": 140.303,
+      "sphm": 162.859,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "txt": "",
+        "cpf": false
+      },
+      "esup": false,
+      "elcl": 0,
+      "gacp": false,
+      "paid": 1151,
+      "wpid": 2147483647,
+      "inid": 878,
+      "caid": 5,
+      "lzsid": 2147483647,
+      "livid": 2147483647,
+      "whbn": "Wheel2A_3D",
+      "tlad": 0.0,
+      "need": false
+    }
+/**
+*
+* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
+*/
