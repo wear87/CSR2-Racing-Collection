@@ -1,5 +1,5 @@
     {
-      "unid": 963,
+      "unid": 959,
       "crdb": "Dodge_ChallengerSRTHellcat_2015",
       "awar": false,
       "grsp": [
@@ -21,8 +21,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 5,
-      "orpi": 5,
+      "appi": 8,
+      "orpi": 8,
       "apiid": 255,
       "oriid": 255,
       "apcid": 3,
@@ -614,7 +614,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 102,
+      "paid": 340,
       "wpid": 2147483647,
       "inid": 255,
       "caid": 3,

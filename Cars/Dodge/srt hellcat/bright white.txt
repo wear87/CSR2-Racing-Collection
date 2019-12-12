@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 2174,
+    {
+      "unid": 961,
       "crdb": "Dodge_ChallengerSRTHellcat_2015",
       "awar": false,
       "grsp": [
@@ -27,14 +23,14 @@
       "ttpp": 0.5,
       "appi": 9,
       "orpi": 9,
-      "apiid": 255,
-      "oriid": 255,
-      "apcid": 3,
-      "orcid": 3,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
+      "apiid": 535,
+      "oriid": 535,
+      "apcid": 20,
+      "orcid": 20,
+      "aplid": 158,
+      "orlid": 158,
+      "aplzsid": 1,
+      "orlzsid": 1,
       "apln": "",
       "apcn": [
         "Dodge_ChallengerSRTHellcat_2015_Wheel1A_3D"
@@ -599,8 +595,6 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
       "cppi": 404,
       "cepi": 0,
       "tdut": 12.642,
@@ -622,15 +616,11 @@
       "gacp": false,
       "paid": 99,
       "wpid": 2147483647,
-      "inid": 255,
-      "caid": 3,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
+      "inid": 535,
+      "caid": 20,
+      "lzsid": 1,
+      "livid": 158,
       "whbn": "Wheel1A_3D",
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
