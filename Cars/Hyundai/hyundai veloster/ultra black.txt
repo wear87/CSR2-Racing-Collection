@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 2914,
+    {
+      "unid": 1081,
       "crdb": "Hyundai_VelosterTurboRSpec_2014",
       "awar": false,
       "grsp": [
@@ -597,8 +593,6 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
       "cppi": 164,
       "cepi": 0,
       "tdut": 15.365,
@@ -628,7 +622,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
