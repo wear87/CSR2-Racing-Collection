@@ -14,7 +14,6 @@
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Italia%26America.png)<br>
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/CSR2_Cover.png)<br>
 
-
 **Project Description：** <br>
 All cars are normally taken from the game without destructive code. <br>
 All cars are initial configuration without any modification. <br>
