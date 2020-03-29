@@ -24,6 +24,7 @@ After the new version is updated, the vehicles of the previous version will be c
 
 If you have any questions about the car code, please feel free to contact me <br>
 Contact Details：<br>
+Discord：https://discordapp.com/ → ADD FRIEDN → wear87#4510 <br>
 4PDA: http://4pda.ru/forum/index.php?showuser=8774404 <br>
 FaceBook: https://www.facebook.com/wear87Lee <br>
 
