@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1483,
+    {
+      "unid": 308,
       "crdb": "MercedesBenz_300SLClassic_1954",
       "awar": false,
       "grsp": [
@@ -606,7 +602,7 @@
       "spqm": 103.359,
       "sphm": 114.407,
       "ctie": "TIER_2",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -624,7 +620,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

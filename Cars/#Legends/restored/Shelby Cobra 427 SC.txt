@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1545,
+    {
+      "unid": 313,
       "crdb": "Shelby_Cobra427SCClassic_1965",
       "awar": false,
       "grsp": [
@@ -606,7 +602,7 @@
       "spqm": 110.916,
       "sphm": 125.469,
       "ctie": "TIER_3",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -624,7 +620,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

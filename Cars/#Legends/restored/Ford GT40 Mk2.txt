@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1552,
+    {
+      "unid": 304,
       "crdb": "Ford_GT40MkII_1966",
       "awar": false,
       "grsp": [
@@ -606,7 +602,7 @@
       "spqm": 128.907,
       "sphm": 147.494,
       "ctie": "TIER_4",
-      "csrc": "Gacha",
+      "csrc": "Prize",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -624,7 +620,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

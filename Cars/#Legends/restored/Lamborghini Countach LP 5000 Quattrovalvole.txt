@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1548,
+    {
+      "unid": 307,
       "crdb": "Lamborghini_CountachClassic_1988",
       "awar": false,
       "grsp": [
@@ -607,7 +603,7 @@
       "spqm": 130.491,
       "sphm": 153.457,
       "ctie": "TIER_4",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -625,7 +621,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

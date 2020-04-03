@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1563,
+    {
+      "unid": 301,
       "crdb": "Bugatti_EB110SSClassic_1992",
       "awar": false,
       "grsp": [
@@ -608,7 +604,7 @@
       "spqm": 135.479,
       "sphm": 153.265,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -626,7 +622,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

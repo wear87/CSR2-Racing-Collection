@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1457,
+    {
+      "unid": 303,
       "crdb": "Ferrari_250GTOClassic_1962",
       "awar": false,
       "grsp": [
@@ -607,7 +603,7 @@
       "spqm": 111.028,
       "sphm": 127.62,
       "ctie": "TIER_2",
-      "csrc": "Gacha",
+      "csrc": "Prize",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -625,7 +621,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

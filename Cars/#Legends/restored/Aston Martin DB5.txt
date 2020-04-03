@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1531,
+    {
+      "unid": 300,
       "crdb": "AstonMartin_DB5Classic_1964",
       "awar": false,
       "grsp": [
@@ -607,7 +603,7 @@
       "spqm": 105.124,
       "sphm": 123.067,
       "ctie": "TIER_2",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -625,7 +621,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
