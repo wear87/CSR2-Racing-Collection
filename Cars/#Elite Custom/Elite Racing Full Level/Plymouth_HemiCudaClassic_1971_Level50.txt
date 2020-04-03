@@ -627,7 +627,7 @@
       "spqm": 122.667,
       "sphm": 142.167,
       "ctie": "TIER_4",
-      "csrc": "Gacha",
+      "csrc": "ShopGold",
       "nupl": {
         "txt": "",
         "cpf": false
