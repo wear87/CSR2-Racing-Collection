@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1564,
+    {
+      "unid": 314,
       "crdb": "McLaren_F1_1993",
       "awar": false,
       "grsp": [
@@ -626,7 +622,3 @@
       "tlad": 0.0,
       "need": false
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
