@@ -1,5 +1,5 @@
     {
-      "unid": 151,
+      "unid": 149,
       "crdb": "Bentley_ContinentalGTRewardRecycled_2018",
       "awar": false,
       "grsp": [
@@ -21,8 +21,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 42,
-      "orpi": 42,
+      "appi": 38,
+      "orpi": 38,
       "apiid": 839,
       "oriid": 839,
       "apcid": 3,
@@ -639,7 +639,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 1074,
+      "paid": 673,
       "wpid": 2147483647,
       "inid": 839,
       "caid": 3,
