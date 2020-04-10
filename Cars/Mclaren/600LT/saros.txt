@@ -1,5 +1,5 @@
     {
-      "unid": 229,
+      "unid": 215,
       "crdb": "McLaren_600LTRewardRecycled_2019",
       "awar": false,
       "grsp": [
@@ -20,8 +20,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 3,
-      "orpi": 3,
+      "appi": 12,
+      "orpi": 12,
       "apiid": 895,
       "oriid": 895,
       "apcid": 5,
@@ -638,7 +638,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 369,
+      "paid": 755,
       "wpid": 2147483647,
       "inid": 895,
       "caid": 5,
