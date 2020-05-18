@@ -1,6 +1,6 @@
 # CSR-Racing-2
 ****
-![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12%20-Coming%20Soon.jpg)
+[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12%20-Coming%20Soon.jpg)](https://csrracingofficial.tumblr.com/)
 ****
 ## Update to 2.11.0→2.11.1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.11.0-Elite%20Tokin.png)
