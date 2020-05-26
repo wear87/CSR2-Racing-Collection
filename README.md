@@ -1,4 +1,11 @@
 # CSR-Racing-2
+
+**Notes:**<br>
+① If you find a new variant of the car, please let me know. I will update it at any time. Usually I have to check and maintain all the cars by myself. The workload is very heavy. If I get everyone's help, my workload will be reduced a lot. This project is free for the players. I hope everyone can participate actively.<br>
+
+② Contact Details：<br>
+Discord：https://discordapp.com/ → ADD FRIEDN → wear87#4510 <br>
+Email: 56785901@qq.com <br>
 ****
 ## Update to 2.12.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-Elite%20Tokin.png)
@@ -30,12 +37,6 @@ This Project does not include store custom vehicle colors. <br>
 This Project does not provide any tutorials for cracking and cheating, please do not ask related questions. <br>
 This Project is suitable for player car collection, learning and communication, and is prohibited for commercial use. <br>
 After the new version is updated, the vehicles of the previous version will be classified into the cars folder. <br>
-
-If you have any questions about the car code, please feel free to contact me <br>
-Contact Details：<br>
-Discord：https://discordapp.com/ → ADD FRIEDN → wear87#4510 <br>
-4PDA: http://4pda.ru/forum/index.php?showuser=8774404 <br>
-FaceBook: https://www.facebook.com/wear87Lee <br>
 
 Player Communication Forum http://4pda.ru/forum/index.php?showtopic=904680<br>
 Official Q&A Forum https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
