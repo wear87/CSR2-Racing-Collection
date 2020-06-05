@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 3183,
+    {
+      "unid": 1301,
       "crdb": "KTM_XBowRRewardRecycled_2011",
       "awar": false,
       "grsp": [
@@ -23,20 +19,37 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 1,
-      "orpi": 1,
+      "appi": 4,
+      "orpi": 4,
       "apiid": 835,
       "oriid": 835,
       "apcid": 0,
       "orcid": 0,
-      "aplid": 357,
-      "orlid": 357,
-      "aplzsid": 2,
-      "orlzsid": 2,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 484,
+      "orlid": 484,
+      "aplzsid": 9,
+      "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "KTM_XBowRRewardRecycled_2011_Wheel2A_3D"
+        "KTM_XBowRRewardRecycled_2011_Wheel2C_3D"
       ],
+      "opcn": "KTM_XBowRRewardRecycled_2011_Wheel2C_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -579,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -597,8 +611,13 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 603,
       "cepi": 0,
       "tdut": 16.062,
@@ -622,13 +641,10 @@
       "wpid": 2147483647,
       "inid": 835,
       "caid": 0,
-      "lzsid": 2,
-      "livid": 357,
-      "whbn": "Wheel2A_3D",
+      "lzsid": 9,
+      "livid": 484,
+      "whbn": "Wheel2C_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
