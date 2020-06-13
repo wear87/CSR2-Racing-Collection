@@ -1,7 +1,7 @@
 # CSR-Racing-2
 
 **Notes:**<br>
-① If you find a new variant of the car, please let me know. I will update it at any time. Usually I have to check and maintain all the cars by myself. The workload is very heavy. If I get everyone's help, my workload will be reduced a lot. This project is free for the players. I hope everyone can participate actively.<br>
+① If you find a new variant of a car, please join the Discord server and let me know. I will update it as soon as possible. Usually I have to check and maintain all the cars by myself so the workload is very heavy. If I get everyone's help, my workload will be reduced a lot. This project is free for the players. I hope everyone can participate actively.<br>
 
 ② Contact Details：<br>
 Discord Server：https://discord.gg/XVZbNan <br>
@@ -32,13 +32,14 @@ Email： 56785901@qq.com <br>
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/CSR2_Cover.png)<br>
 
 **Project Description：** <br>
-All cars are normally taken from the game without destructive code. <br>
-All cars are initial configuration without any modification. <br>
-This Project does not include store custom vehicle colors. <br>
-This Project does not provide any tutorials for cracking and cheating, please do not ask related questions. <br>
-This Project is suitable for player car collection, learning and communication, and is prohibited for commercial use. <br>
-After the new version is updated, the vehicles of the previous version will be classified into the cars folder. <br>
+All cars are normally taken from the game without any destructive codes. <br>
+All cars are stock configuration without any upgrades or modification. <br>
+This project ONLY includes official colors and rare imports colors. <br>
+This project DOES NOT support or provide any tutorials for modification of the game. Please DO NOT ask related questions. <br>
+This project is built for car collection, learning and communication purposes. Any commercial use is prohibited. <br>
+After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 
+Discord Server：https://discord.gg/XVZbNan <br>
 Player Communication Forum http://4pda.ru/forum/index.php?showtopic=904680<br>
 Official Q&A Forum https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
 Official Development Blog https://csrracingofficial.tumblr.com/post/189370559780/290-dev-blog
