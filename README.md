@@ -4,7 +4,7 @@
 ① If you find a new variant of the car, please let me know. I will update it at any time. Usually I have to check and maintain all the cars by myself. The workload is very heavy. If I get everyone's help, my workload will be reduced a lot. This project is free for the players. I hope everyone can participate actively.<br>
 
 ② Contact Details：<br>
-Discord：https://discordapp.com/ → ADD FRIEDN → wear87#4510 <br>
+Discord Server：https://discord.gg/XVZbNan <br>
 Line ID：59010476 <br>
 Email： 56785901@qq.com <br>
 ****
