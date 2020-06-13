@@ -40,6 +40,6 @@ This project is built for car collection, learning and communication purposes. A
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 
 Discord Server：https://discord.gg/XVZbNan <br>
-Player Communication Forum http://4pda.ru/forum/index.php?showtopic=904680<br>
-Official Q&A Forum https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
-Official Development Blog https://csrracingofficial.tumblr.com/post/189370559780/290-dev-blog
+Player Communication Forum: http://4pda.ru/forum/index.php?showtopic=904680<br>
+Official Q&A Forum: https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
+Official Development Blog: https://csrracingofficial.tumblr.com/post/189370559780/290-dev-blog
