@@ -3,10 +3,10 @@
 **Notes:**<br>
 ① If you find a new variant of a car, please join the Discord server and let me know. I will update it as soon as possible. Usually I have to check and maintain all the cars by myself so the workload is very heavy. If I get everyone's help, my workload will be reduced a lot. This project is free for the players. I hope everyone can participate actively.<br>
 
-② Contact Details：<br>
-Discord Server：https://discord.gg/XVZbNan <br>
-Line ID：59010476 <br>
-Email： 56785901@qq.com <br>
+② Contact Details:<br>
+Discord Server: https://discord.gg/XVZbNan <br>
+Line ID: 59010476 <br>
+Email: 56785901@qq.com <br>
 ****
 ## Update to 2.12.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-Elite%20Tokin.png)
@@ -31,7 +31,7 @@ Email： 56785901@qq.com <br>
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Italia%26America.png)<br>
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/CSR2_Cover.png)<br>
 
-**Project Description：** <br>
+**Project Description:** <br>
 All cars are normally taken from the game without any destructive codes. <br>
 All cars are stock configuration without any upgrades or modification. <br>
 This project ONLY includes official colors and rare imports colors. <br>
@@ -39,7 +39,7 @@ This project DOES NOT support or provide any tutorials for modification of the g
 This project is built for car collection, learning and communication purposes. Any commercial use is prohibited. <br>
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 
-Discord Server：https://discord.gg/XVZbNan <br>
+Discord Server: https://discord.gg/XVZbNan <br>
 Player Communication Forum: http://4pda.ru/forum/index.php?showtopic=904680<br>
 Official Q&A Forum: https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
 Official Development Blog: https://csrracingofficial.tumblr.com/post/189370559780/290-dev-blog
