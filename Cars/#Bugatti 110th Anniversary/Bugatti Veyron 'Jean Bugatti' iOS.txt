@@ -1,6 +1,6 @@
     {
-      "unid": 715,
-      "crdb": "Bugatti_VeyronGrandSportVitesse_2012",
+      "unid": 239,
+      "crdb": "Bugatti_VeyronGrandSportVitesseiOS_2012",
       "awar": false,
       "grsp": [
         3.18,
@@ -22,18 +22,35 @@
       "ttpp": 0.5,
       "appi": 0,
       "orpi": 0,
-      "apiid": 1025,
-      "oriid": 1025,
+      "apiid": 1038,
+      "oriid": 1038,
       "apcid": 59,
       "orcid": 59,
-      "aplid": 537,
-      "orlid": 537,
-      "aplzsid": 2,
-      "orlzsid": 2,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 523,
+      "orlid": 523,
+      "aplzsid": 9,
+      "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "Bugatti_VeyronGrandSportVitesse_2012_Wheel1B_3D"
+        "Bugatti_VeyronGrandSportVitesseiOS_2012_Wheel1A_3D"
       ],
+      "opcn": "Bugatti_VeyronGrandSportVitesseiOS_2012_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -576,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 3,
       "rpst": [
         {
           "rvlo": 0,
@@ -594,6 +612,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 607,
       "cepi": 0,
       "tdut": 15.922,
@@ -605,7 +630,7 @@
       "spqm": 137.851,
       "sphm": 160.729,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "IAPSpecial",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -613,13 +638,14 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 580,
+      "paid": 2147483647,
       "wpid": 2147483647,
-      "inid": 1025,
-      "caid": 59,
-      "lzsid": 2,
-      "livid": 537,
-      "whbn": "Wheel1B_3D",
+      "inid": 2147483647,
+      "caid": 2147483647,
+      "lzsid": 2147483647,
+      "livid": 2147483647,
+      "whbn": "",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
