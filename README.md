@@ -5,8 +5,6 @@
 
 ② Contact Details:<br>
 Discord Server: https://discord.gg/XVZbNan <br>
-Line ID: 59010476 <br>
-Email: 56785901@qq.com <br>
 ****
 ## Update to 2.12.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-Elite%20Tokin.png)
