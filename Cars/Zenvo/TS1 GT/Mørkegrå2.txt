@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
 {
-      "unid": 2056,
+      "unid": 62,
       "crdb": "Zenvo_TS1GTRewardRecycled_2018",
       "awar": false,
       "grsp": [
@@ -26,18 +22,35 @@
       "ttpp": 0.5,
       "appi": 6,
       "orpi": 6,
-      "apiid": 986,
-      "oriid": 986,
-      "apcid": 162,
-      "orcid": 162,
-      "aplid": 488,
-      "orlid": 488,
-      "aplzsid": 9,
-      "orlzsid": 9,
+      "apiid": 854,
+      "oriid": 854,
+      "apcid": 124,
+      "orcid": 124,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 492,
+      "orlid": 492,
+      "aplzsid": 2,
+      "orlzsid": 2,
       "apln": "",
       "apcn": [
-        "Zenvo_TS1GTRewardRecycled_2018_Wheel1B_3D"
+        "Zenvo_TS1GTRewardRecycled_2018_Wheel1A_3D"
       ],
+      "opcn": "Zenvo_TS1GTRewardRecycled_2018_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -580,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -598,6 +612,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 604,
       "cepi": 0,
       "tdut": 16.026,
@@ -619,15 +640,12 @@
       "gacp": false,
       "paid": 1326,
       "wpid": 2147483647,
-      "inid": 986,
-      "caid": 162,
-      "lzsid": 9,
-      "livid": 488,
-      "whbn": "Wheel1B_3D",
+      "inid": 854,
+      "caid": 124,
+      "lzsid": 2,
+      "livid": 492,
+      "whbn": "Wheel1A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
