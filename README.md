@@ -6,7 +6,7 @@
 ② Contact Details:<br>
 Discord Server: https://discord.gg/XVZbNan <br>
 ****
-## Update to 2.12.0
+## Update to 2.12.0→2.12.1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-2.png)
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12%20-Coming%20Soon.jpg)](https://csrracingofficial.tumblr.com/)
