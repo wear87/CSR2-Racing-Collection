@@ -1,4 +1,4 @@
-{
+    {
       "unid": 64,
       "crdb": "Zenvo_TS1GTRewardRecycled_2018",
       "awar": false,
