@@ -1,0 +1,24 @@
+/**
+*
+* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
+*/
+RestorationPartsSpent": {
+    "Ferrari_250GTOClassic_1962": 14800,
+    "MercedesBenz_300SLClassic_1954": 17400,
+    "AstonMartin_DB5Classic_1964": 17400,
+    "Chevrolet_CorvetteZR1Classic_1970": 25800,
+    "Shelby_Cobra427SCClassic_1965": 25800,
+    "Pontiac_GTOTheJudgeClassic_1969": 29600,
+    "Lamborghini_CountachClassic_1988": 40400,
+    "Honda_NSXRClassic_1992": 36000,
+    "Plymouth_HemiCudaClassic_1971": 38200,
+    "Ford_GT40MkII_1966": 35600,
+    "Porsche_CarreraGTClassic_2003": 50000,
+    "Jaguar_XJ220Classic_1993": 53400,
+    "Saleen_S7Classic_2004": 56400,
+    "Bugatti_EB110SSClassic_1992": 50000
+  }
+/**
+*
+* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
+*/
