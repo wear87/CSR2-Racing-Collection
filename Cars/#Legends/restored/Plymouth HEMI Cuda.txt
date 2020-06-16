@@ -1,5 +1,5 @@
     {
-      "unid": 309,
+      "unid": 1395,
       "crdb": "Plymouth_HemiCudaClassic_1971",
       "awar": false,
       "grsp": [
@@ -23,6 +23,22 @@
       "oriid": 875,
       "apcid": 4,
       "orcid": 4,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 420,
       "orlid": 420,
       "aplzsid": 9,
@@ -31,6 +47,7 @@
       "apcn": [
         "Plymouth_HemiCudaClassic_1971_Wheel2A_3D"
       ],
+      "opcn": "Plymouth_HemiCudaClassic_1971_Wheel2A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -573,6 +590,7 @@
           ]
         }
       ],
+      "fpin": 0,
       "rpst": [
         {
           "rvlo": 2,
@@ -591,6 +609,13 @@
           "rvlf": 3
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 499,
       "cepi": 0,
       "tdut": 18.257,
@@ -618,5 +643,6 @@
       "livid": 420,
       "whbn": "Wheel2A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
