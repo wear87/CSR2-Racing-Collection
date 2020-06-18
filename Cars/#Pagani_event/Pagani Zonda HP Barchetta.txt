@@ -1,5 +1,5 @@
-{
-      "unid": 140,
+    {
+      "unid": 1441,
       "crdb": "Pagani_ZondaBarchetta_2018",
       "awar": false,
       "grsp": [
@@ -21,18 +21,35 @@
       "ttpp": 0.5,
       "appi": 0,
       "orpi": 0,
-      "apiid": -2147483648,
-      "oriid": -2147483648,
-      "apcid": -2147483648,
-      "orcid": -2147483648,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
+      "apiid": 967,
+      "oriid": 967,
+      "apcid": 86,
+      "orcid": 86,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 258,
+      "orlid": 258,
+      "aplzsid": 16,
+      "orlzsid": 16,
       "apln": "",
       "apcn": [
         "Pagani_ZondaBarchetta_2018_Wheel1A_3D"
       ],
+      "opcn": "Pagani_ZondaBarchetta_2018_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 3,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,16 +611,23 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 602,
       "cepi": 0,
-      "tdut": 0.0,
-      "tdtt": 0.0,
-      "ttqm": 0.0,
-      "tthm": 0.0,
-      "tt60": 0.0,
-      "tt1h": 0.0,
-      "spqm": 0.0,
-      "sphm": 0.0,
+      "tdut": 16.091,
+      "tdtt": 16.091,
+      "ttqm": 10.24,
+      "tthm": 16.091,
+      "tt60": 2.703,
+      "tt1h": 5.139,
+      "spqm": 145.398,
+      "sphm": 164.172,
       "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
@@ -620,5 +645,6 @@
       "livid": 2147483647,
       "whbn": "",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
