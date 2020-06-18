@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 558,
+    {
+      "unid": 1449,
       "crdb": "MercedesBenz_CLA45AMGShootingBrakeBoss_2015",
       "awar": false,
       "grsp": [
@@ -29,6 +25,22 @@
       "oriid": 325,
       "apcid": 19,
       "orcid": 19,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": -2147483648,
       "orlid": -2147483648,
       "aplzsid": -2147483648,
@@ -37,6 +49,7 @@
       "apcn": [
         "MercedesBenz_CLA45AMGShootingBrakeBoss_2015_Wheel1A_3D"
       ],
+      "opcn": "MercedesBenz_CLA45AMGShootingBrakeBoss_2015_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -579,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 0,
       "rpst": [
         {
           "rvlo": 0,
@@ -597,16 +611,23 @@
           "rvlf": 0
         }
       ],
-      "cppi": 486,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
+      "cppi": 448,
       "cepi": 0,
-      "tdut": 11.581,
-      "tdtt": 11.581,
-      "ttqm": 11.581,
-      "tthm": 18.27,
-      "tt60": 3.208,
-      "tt1h": 7.835,
-      "spqm": 121.179,
-      "sphm": 146.386,
+      "tdut": 12.076,
+      "tdtt": 12.076,
+      "ttqm": 12.076,
+      "tthm": 19.226,
+      "tt60": 3.76,
+      "tt1h": 8.915,
+      "spqm": 114.715,
+      "sphm": 135.511,
       "ctie": "TIER_3",
       "csrc": "Prize",
       "nupl": {
@@ -624,9 +645,6 @@
       "livid": 2147483647,
       "whbn": "",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
