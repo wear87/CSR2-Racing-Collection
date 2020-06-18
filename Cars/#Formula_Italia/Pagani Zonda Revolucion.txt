@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 3010,
+    {
+      "unid": 1438,
       "crdb": "Pagani_ZondaRevolucion_2013",
       "awar": false,
       "grsp": [
@@ -25,18 +21,35 @@
       "ttpp": 0.5,
       "appi": 0,
       "orpi": 0,
-      "apiid": 441,
-      "oriid": 441,
-      "apcid": 0,
-      "orcid": 0,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
+      "apiid": 364,
+      "oriid": 364,
+      "apcid": 143,
+      "orcid": 143,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 122,
+      "orlid": 122,
+      "aplzsid": 9,
+      "orlzsid": 9,
       "apln": "",
       "apcn": [
         "Pagani_ZondaRevolucion_2013_Wheel1A_3D"
       ],
+      "opcn": "Pagani_ZondaRevolucion_2013_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -579,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 3,
       "rpst": [
         {
           "rvlo": 0,
@@ -597,8 +611,13 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 604,
       "cepi": 0,
       "tdut": 16.038,
@@ -626,9 +645,6 @@
       "livid": 2147483647,
       "whbn": "",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
