@@ -3,7 +3,14 @@
 **Notes:**<br>
 ① If you find a new variant of a car, please join the Discord server and let me know. I will update it as soon as possible. Usually I have to check and maintain all the cars by myself so the workload is very heavy. If I get everyone's help, my workload will be reduced a lot. This project is free for the players. I hope everyone can participate actively.<br>
 
-② Contact Details:<br>
+② We're recruiting!<br>
+Do you think there is something in the project that can be improved? <br>
+Do you have any good ideas about how should we run this project? <br>
+Join us! Be a part of this project and make your ideas come true! <br>
+We're activly looking for new helping hands and if you got the skills and traits that can be useful, then you can be our next contributor! <br>
+Join our discord channel and ask all about it in the project chatting room!<br>
+
+③ Contact Details:<br>
 Discord Server: https://discord.gg/XVZbNan <br>
 ****
 ## Update to 2.12.0→2.12.1
