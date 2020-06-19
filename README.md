@@ -1,7 +1,7 @@
 # CSR-Racing-2
 
 **Notes:**<br>
-① This huge racing project is no longer my own maintenance. 😄I am very honored to meet the two partners of the team. They are Meo Chan and Bitsnbytescoding. 👍Their capabilities are very good. We plan to fully update the racing library code to version 2.12.1. And optimize the file directory and file name, if you are interested in our project, please check the second description.↓↓↓<br>
+① This huge racing project is no longer my own maintenance. 😄I am very honored to meet the two partners of the team. They are **Meo Chan** and **Bitsnbytescoding**. 👍Their capabilities are very good. We plan to fully update the racing library code to version 2.12.1. And optimize the file directory and file name, if you are interested in our project, please check the second description.↓↓↓<br>
 
 ② We're recruiting!<br>
 Do you think there is something in the project that can be improved? <br>
