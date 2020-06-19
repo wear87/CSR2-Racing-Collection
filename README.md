@@ -1,7 +1,7 @@
 # CSR-Racing-2
 
 **Notes:**<br>
-① If you find a new variant of a car, please join the Discord server and let me know. I will update it as soon as possible. Usually I have to check and maintain all the cars by myself so the workload is very heavy. If I get everyone's help, my workload will be reduced a lot. This project is free for the players. I hope everyone can participate actively.<br>
+① This huge racing project is finally no longer maintained by me. 😄I am very honored to meet the two partners of the team. They are Meo Chan and Bitsnbytescoding. 👍Their capabilities are very good. We plan to fully update the racing library code to version 2.12.1. And optimize the file directory and file name, if you are interested in our project, please check the second description.↓↓↓<br>
 
 ② We're recruiting!<br>
 Do you think there is something in the project that can be improved? <br>
