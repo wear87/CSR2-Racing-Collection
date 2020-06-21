@@ -1,5 +1,5 @@
     {
-      "unid": 1982,
+      "unid": 1983,
       "crdb": "Bentley_ContinentalGT3RRewardRecycled_2015",
       "awar": false,
       "grsp": [
@@ -21,8 +21,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
+      "appi": 1,
+      "orpi": 1,
       "apiid": 427,
       "oriid": 427,
       "apcid": 56,
@@ -639,7 +639,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 554,
+      "paid": 534,
       "wpid": 2147483647,
       "inid": 427,
       "caid": 56,

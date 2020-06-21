@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1627,
+    {
+      "unid": 1981,
       "crdb": "Bentley_ContinentalGT3RRewardRecycled_2015",
       "awar": false,
       "grsp": [
@@ -31,6 +27,22 @@
       "oriid": 427,
       "apcid": 56,
       "orcid": 56,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": -2147483648,
       "orlid": -2147483648,
       "aplzsid": -2147483648,
@@ -39,6 +51,7 @@
       "apcn": [
         "Bentley_ContinentalGT3RRewardRecycled_2015_Wheel1A_3D"
       ],
+      "opcn": "Bentley_ContinentalGT3RRewardRecycled_2015_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -581,6 +594,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -599,8 +613,13 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 606,
       "cepi": 0,
       "tdut": 15.95,
@@ -624,13 +643,10 @@
       "wpid": 2147483647,
       "inid": 427,
       "caid": 56,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
       "whbn": "Wheel1A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
