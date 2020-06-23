@@ -1,5 +1,5 @@
     {
-      "unid": 2088,
+      "unid": 2079,
       "crdb": "BMW_M3E92CoupeGTSRewardRecycled_2011",
       "awar": false,
       "grsp": [
@@ -19,8 +19,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 3,
-      "orpi": 3,
+      "appi": 6,
+      "orpi": 6,
       "apiid": 220,
       "oriid": 220,
       "apcid": 0,
@@ -637,7 +637,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 668,
+      "paid": 287,
       "wpid": 2147483647,
       "inid": 220,
       "caid": 0,
