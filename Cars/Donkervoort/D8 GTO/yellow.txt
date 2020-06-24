@@ -1,5 +1,5 @@
     {
-      "unid": 270,
+      "unid": 2372,
       "crdb": "Donkervoort_D8GTORewardRecycled_2015",
       "awar": false,
       "grsp": [
@@ -24,6 +24,22 @@
       "oriid": 908,
       "apcid": 0,
       "orcid": 0,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": -2147483648,
       "orlid": -2147483648,
       "aplzsid": -2147483648,
@@ -32,6 +48,7 @@
       "apcn": [
         "Donkervoort_D8GTORewardRecycled_2015_Wheel1A_3D"
       ],
+      "opcn": "Donkervoort_D8GTORewardRecycled_2015_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -574,6 +591,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -592,6 +610,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 601,
       "cepi": 0,
       "tdut": 16.127,
@@ -615,9 +640,10 @@
       "wpid": 2147483647,
       "inid": 908,
       "caid": 0,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
       "whbn": "Wheel1A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
