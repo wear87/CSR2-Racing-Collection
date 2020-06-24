@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1599,
+    {
+      "unid": 2344,
       "crdb": "Dodge_ChallengerSRTDemonRewardRecycled_2018",
       "awar": false,
       "grsp": [
@@ -25,12 +21,28 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 3,
-      "orpi": 3,
+      "appi": 4,
+      "orpi": 4,
       "apiid": 255,
       "oriid": 255,
       "apcid": 3,
       "orcid": 3,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 267,
       "orlid": 267,
       "aplzsid": 4,
@@ -39,6 +51,7 @@
       "apcn": [
         "Dodge_ChallengerSRTDemonRewardRecycled_2018_Wheel1A_3D"
       ],
+      "opcn": "Dodge_ChallengerSRTDemonRewardRecycled_2018_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -581,6 +594,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -599,6 +613,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 608,
       "cepi": 0,
       "tdut": 15.889,
@@ -618,7 +639,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 1125,
+      "paid": 340,
       "wpid": 2147483647,
       "inid": 255,
       "caid": 3,
@@ -626,9 +647,6 @@
       "livid": 267,
       "whbn": "Wheel1A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
