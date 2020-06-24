@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 2035,
+    {
+      "unid": 2367,
       "crdb": "Chevrolet_CorvetteZR1RewardRecycled_2018",
       "awar": false,
       "grsp": [
@@ -30,6 +26,22 @@
       "oriid": 750,
       "apcid": 3,
       "orcid": 3,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 305,
       "orlid": 305,
       "aplzsid": 15,
@@ -38,6 +50,7 @@
       "apcn": [
         "Chevrolet_CorvetteZR1RewardRecycled_2018_Wheel1B_3D"
       ],
+      "opcn": "Chevrolet_CorvetteZR1RewardRecycled_2018_Wheel1B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -580,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -598,8 +612,13 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 602,
       "cepi": 0,
       "tdut": 16.107,
@@ -627,9 +646,6 @@
       "livid": 305,
       "whbn": "Wheel1B_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
