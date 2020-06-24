@@ -1,5 +1,5 @@
     {
-      "unid": 944,
+      "unid": 2226,
       "crdb": "Chevrolet_CamaroSS_2016",
       "awar": false,
       "grsp": [
@@ -21,18 +21,35 @@
       "ttpp": 0.5,
       "appi": 0,
       "orpi": 0,
-      "apiid": 393,
-      "oriid": 393,
-      "apcid": 20,
-      "orcid": 20,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
+      "apiid": 529,
+      "oriid": 529,
+      "apcid": 9,
+      "orcid": 9,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 179,
+      "orlid": 179,
+      "aplzsid": 6,
+      "orlzsid": 6,
       "apln": "",
       "apcn": [
-        "Chevrolet_CamaroSS_2016_Wheel2B_3D"
+        "Chevrolet_CamaroSS_2016_Wheel3A_3D"
       ],
+      "opcn": "Chevrolet_CamaroSS_2016_Wheel3A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 1,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,6 +611,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 406,
       "cepi": 0,
       "tdut": 12.619,
@@ -614,11 +639,12 @@
       "gacp": false,
       "paid": 96,
       "wpid": 2147483647,
-      "inid": 393,
-      "caid": 20,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
-      "whbn": "Wheel2B_3D",
+      "inid": 529,
+      "caid": 9,
+      "lzsid": 6,
+      "livid": 179,
+      "whbn": "Wheel3A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }

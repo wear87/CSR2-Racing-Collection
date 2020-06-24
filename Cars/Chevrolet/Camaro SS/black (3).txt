@@ -1,5 +1,5 @@
     {
-      "unid": 952,
+      "unid": 2215,
       "crdb": "Chevrolet_CamaroSS_2016",
       "awar": false,
       "grsp": [
@@ -25,6 +25,22 @@
       "oriid": 526,
       "apcid": 3,
       "orcid": 3,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 149,
       "orlid": 149,
       "aplzsid": 1,
@@ -33,6 +49,7 @@
       "apcn": [
         "Chevrolet_CamaroSS_2016_Wheel1C_3D"
       ],
+      "opcn": "Chevrolet_CamaroSS_2016_Wheel1C_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 1,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,16 +611,23 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 406,
       "cepi": 0,
-      "tdut": 0.0,
-      "tdtt": 0.0,
-      "ttqm": 0.0,
-      "tthm": 0.0,
-      "tt60": 0.0,
-      "tt1h": 0.0,
-      "spqm": 0.0,
-      "sphm": 0.0,
+      "tdut": 12.619,
+      "tdtt": 12.619,
+      "ttqm": 12.619,
+      "tthm": 20.182,
+      "tt60": 3.915,
+      "tt1h": 10.103,
+      "spqm": 107.12,
+      "sphm": 128.583,
       "ctie": "TIER_3",
       "csrc": "Gacha",
       "nupl": {
@@ -620,5 +645,6 @@
       "livid": 149,
       "whbn": "Wheel1C_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
