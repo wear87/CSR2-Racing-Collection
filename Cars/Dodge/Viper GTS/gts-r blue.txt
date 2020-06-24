@@ -1,5 +1,5 @@
     {
-      "unid": 983,
+      "unid": 2255,
       "crdb": "Dodge_ViperGTS_2015",
       "awar": false,
       "grsp": [
@@ -25,6 +25,22 @@
       "oriid": 261,
       "apcid": 5,
       "orcid": 5,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 167,
       "orlid": 167,
       "aplzsid": 15,
@@ -33,6 +49,7 @@
       "apcn": [
         "Dodge_ViperGTS_2015_Wheel3A_3D"
       ],
+      "opcn": "Dodge_ViperGTS_2015_Wheel3A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 1,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,6 +611,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 500,
       "cepi": 0,
       "tdut": 18.246,
@@ -620,5 +645,6 @@
       "livid": 167,
       "whbn": "Wheel3A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
