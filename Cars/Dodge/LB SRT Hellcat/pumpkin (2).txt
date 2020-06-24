@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 2156,
+    {
+      "unid": 2248,
       "crdb": "Dodge_ChallengerSRTHellcatRewardRecycled_2015",
       "awar": false,
       "grsp": [
@@ -25,20 +21,37 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
-      "apiid": 399,
-      "oriid": 399,
+      "appi": 2,
+      "orpi": 2,
+      "apiid": 255,
+      "oriid": 255,
       "apcid": 0,
       "orcid": 0,
-      "aplid": 365,
-      "orlid": 365,
-      "aplzsid": 1,
-      "orlzsid": 1,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": -2147483648,
+      "orlid": -2147483648,
+      "aplzsid": -2147483648,
+      "orlzsid": -2147483648,
       "apln": "",
       "apcn": [
-        "Dodge_ChallengerSRTHellcatRewardRecycled_2015_Wheel1F_3D"
+        "Dodge_ChallengerSRTHellcatRewardRecycled_2015_Wheel1B_3D"
       ],
+      "opcn": "Dodge_ChallengerSRTHellcatRewardRecycled_2015_Wheel1B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -581,6 +594,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -599,8 +613,13 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 405,
       "cepi": 0,
       "tdut": 12.635,
@@ -620,17 +639,14 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 515,
+      "paid": 573,
       "wpid": 2147483647,
-      "inid": 399,
+      "inid": 255,
       "caid": 0,
-      "lzsid": 1,
-      "livid": 365,
-      "whbn": "Wheel1F_3D",
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1B_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
