@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1860,
+    {
+      "unid": 2546,
       "crdb": "Ferrari_F12tdfRewardRecycled_2016",
       "awar": false,
       "grsp": [
@@ -24,20 +20,37 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 1,
-      "orpi": 1,
+      "appi": 2,
+      "orpi": 2,
       "apiid": 129,
       "oriid": 129,
       "apcid": 13,
       "orcid": 13,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": -2147483648,
       "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
+      "aplzsid": -1,
+      "orlzsid": -1,
       "apln": "",
       "apcn": [
-        "Ferrari_F12tdfRewardRecycled_2016_Wheel1B_3D"
+        "Ferrari_F12tdfRewardRecycled_2016_Wheel1C_3D"
       ],
+      "opcn": "Ferrari_F12tdfRewardRecycled_2016_Wheel1C_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -580,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -598,6 +612,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 603,
       "cepi": 0,
       "tdut": 16.073,
@@ -617,17 +638,14 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 183,
+      "paid": 197,
       "wpid": 2147483647,
       "inid": 129,
       "caid": 13,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
-      "whbn": "Wheel1B_3D",
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1C_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
