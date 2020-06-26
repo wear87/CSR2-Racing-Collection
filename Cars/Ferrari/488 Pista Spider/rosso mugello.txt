@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1197,
+    {
+      "unid": 2413,
       "crdb": "Ferrari_488PistaSpiderRewardRecycled_2019",
       "awar": false,
       "grsp": [
@@ -30,6 +26,22 @@
       "oriid": 920,
       "apcid": 15,
       "orcid": 15,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 448,
       "orlid": 448,
       "aplzsid": 15,
@@ -38,6 +50,7 @@
       "apcn": [
         "Ferrari_488PistaSpiderRewardRecycled_2019_Wheel1B_3D"
       ],
+      "opcn": "Ferrari_488PistaSpiderRewardRecycled_2019_Wheel1B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -580,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -598,16 +612,23 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 607,
       "cepi": 0,
-      "tdut": 15.908,
-      "tdtt": 15.908,
-      "ttqm": 10.244,
-      "tthm": 15.908,
-      "tt60": 2.921,
-      "tt1h": 5.482,
-      "spqm": 143.229,
-      "sphm": 170.672,
+      "tdut": 15.922,
+      "tdtt": 15.922,
+      "ttqm": 10.308,
+      "tthm": 15.922,
+      "tt60": 3.012,
+      "tt1h": 5.601,
+      "spqm": 144.302,
+      "sphm": 172.192,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -625,9 +646,6 @@
       "livid": 448,
       "whbn": "Wheel1B_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/

@@ -17,7 +17,6 @@ Discord Server: https://discord.gg/XVZbNan <br>
 All cars are normally taken from the game without any destructive codes. <br>
 All cars are stock configuration without any upgrades or modification. <br>
 This project ONLY includes official colors and rare imports colors. <br>
-This project DOES NOT support or provide any tutorials for modification of the game. Please DO NOT ask related questions. <br>
 This project is built for car collection, learning and communication purposes. Any commercial use is prohibited. <br>
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 Due to the large number of car catalogs, it is recommended to use the github search function to find the car you need.<br>
