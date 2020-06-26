@@ -1,5 +1,5 @@
     {
-      "unid": 748,
+      "unid": 2565,
       "crdb": "Ferrari_PortofinoRewardRecycled_2018",
       "awar": false,
       "grsp": [
@@ -22,18 +22,35 @@
       "ttpp": 0.5,
       "appi": 6,
       "orpi": 6,
-      "apiid": 808,
-      "oriid": 808,
-      "apcid": 5,
-      "orcid": 5,
+      "apiid": 818,
+      "oriid": 818,
+      "apcid": 13,
+      "orcid": 13,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": -2147483648,
       "orlid": -2147483648,
       "aplzsid": -2147483648,
       "orlzsid": -2147483648,
       "apln": "",
       "apcn": [
-        "Ferrari_PortofinoRewardRecycled_2018_Wheel2A_3D"
+        "Ferrari_PortofinoRewardRecycled_2018_Wheel1C_3D"
       ],
+      "opcn": "Ferrari_PortofinoRewardRecycled_2018_Wheel1C_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -576,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -594,6 +612,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 602,
       "cepi": 0,
       "tdut": 16.089,
@@ -615,11 +640,12 @@
       "gacp": false,
       "paid": 199,
       "wpid": 2147483647,
-      "inid": 808,
-      "caid": 5,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
-      "whbn": "Wheel2A_3D",
+      "inid": 818,
+      "caid": 13,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1C_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
