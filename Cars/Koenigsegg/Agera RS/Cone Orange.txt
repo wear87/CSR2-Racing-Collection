@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 3053,
+    {
+      "unid": 2931,
       "crdb": "Koenigsegg_AgeraRSRewardRecycled_2017",
       "awar": false,
       "grsp": [
@@ -24,20 +20,37 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 1,
-      "orpi": 1,
-      "apiid": 868,
-      "oriid": 868,
-      "apcid": 126,
-      "orcid": 126,
-      "aplid": 395,
-      "orlid": 395,
-      "aplzsid": 2,
-      "orlzsid": 2,
+      "appi": 0,
+      "orpi": 0,
+      "apiid": 178,
+      "oriid": 178,
+      "apcid": 27,
+      "orcid": 27,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 342,
+      "orlid": 342,
+      "aplzsid": 9,
+      "orlzsid": 9,
       "apln": "",
       "apcn": [
         "Koenigsegg_AgeraRSRewardRecycled_2017_Wheel1A_3D"
       ],
+      "opcn": "Koenigsegg_AgeraRSRewardRecycled_2017_Wheel1A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -580,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -598,8 +612,13 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 609,
       "cepi": 0,
       "tdut": 15.866,
@@ -619,17 +638,14 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 215,
+      "paid": 643,
       "wpid": 2147483647,
-      "inid": 868,
-      "caid": 126,
-      "lzsid": 2,
-      "livid": 395,
+      "inid": 178,
+      "caid": 27,
+      "lzsid": 9,
+      "livid": 342,
       "whbn": "Wheel1A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
