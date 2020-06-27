@@ -1,5 +1,5 @@
     {
-      "unid": 1299,
+      "unid": 2984,
       "crdb": "KTM_XBowRRewardRecycled_2011",
       "awar": false,
       "grsp": [
@@ -19,8 +19,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 6,
-      "orpi": 6,
+      "appi": 5,
+      "orpi": 5,
       "apiid": 835,
       "oriid": 835,
       "apcid": 0,
@@ -637,7 +637,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 1318,
+      "paid": 1317,
       "wpid": 2147483647,
       "inid": 835,
       "caid": 0,
