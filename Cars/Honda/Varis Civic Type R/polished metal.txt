@@ -1,5 +1,5 @@
     {
-      "unid": 1672,
+      "unid": 2831,
       "crdb": "Honda_CivicTypeRVaris_2017",
       "awar": false,
       "grsp": [
@@ -25,14 +25,31 @@
       "oriid": 758,
       "apcid": 3,
       "orcid": 3,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 626,
       "orlid": 626,
       "aplzsid": 0,
       "orlzsid": 0,
       "apln": "",
       "apcn": [
-        "Honda_CivicTypeRVaris_2017_Wheel1C_3D"
+        "Honda_CivicTypeRVaris_2017_Wheel1B_3D"
       ],
+      "opcn": "Honda_CivicTypeRVaris_2017_Wheel1B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,6 +611,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 402,
       "cepi": 0,
       "tdut": 12.673,
@@ -618,7 +643,8 @@
       "caid": 3,
       "lzsid": 0,
       "livid": 626,
-      "whbn": "Wheel1C_3D",
+      "whbn": "Wheel1B_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
