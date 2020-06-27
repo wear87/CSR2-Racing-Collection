@@ -1,5 +1,5 @@
     {
-      "unid": 607,
+      "unid": 2752,
       "crdb": "Hennessey_VenomGTSpyderRewardRecycled_2016",
       "awar": false,
       "grsp": [
@@ -21,18 +21,35 @@
       "ttpp": 0.5,
       "appi": 2,
       "orpi": 2,
-      "apiid": 373,
-      "oriid": 373,
-      "apcid": 3,
-      "orcid": 3,
-      "aplid": 226,
-      "orlid": 226,
-      "aplzsid": 9,
-      "orlzsid": 9,
+      "apiid": 804,
+      "oriid": 804,
+      "apcid": 7,
+      "orcid": 7,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": -2147483648,
+      "orlid": -2147483648,
+      "aplzsid": -2147483648,
+      "orlzsid": -2147483648,
       "apln": "",
       "apcn": [
-        "Hennessey_VenomGTSpyderRewardRecycled_2016_Wheel1A_3D"
+        "Hennessey_VenomGTSpyderRewardRecycled_2016_Wheel1C_3D"
       ],
+      "opcn": "Hennessey_VenomGTSpyderRewardRecycled_2016_Wheel1C_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,6 +611,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 608,
       "cepi": 0,
       "tdut": 15.875,
@@ -604,7 +629,7 @@
       "spqm": 139.081,
       "sphm": 161.013,
       "ctie": "TIER_5",
-      "csrc": "IAP",
+      "csrc": "Gacha",
       "nupl": {
         "txt": "",
         "cpf": false
@@ -612,13 +637,14 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 2147483647,
+      "paid": 137,
       "wpid": 2147483647,
-      "inid": 2147483647,
-      "caid": 2147483647,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
-      "whbn": "",
+      "inid": 804,
+      "caid": 7,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1C_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
