@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 2962,
+    {
+      "unid": 2864,
       "crdb": "Jaguar_FTypeRCoupe_2016",
       "awar": false,
       "grsp": [
@@ -27,18 +23,35 @@
       "ttpp": 0.5,
       "appi": 13,
       "orpi": 13,
-      "apiid": 229,
-      "oriid": 229,
-      "apcid": 3,
-      "orcid": 3,
-      "aplid": 187,
-      "orlid": 187,
-      "aplzsid": 15,
-      "orlzsid": 15,
+      "apiid": 233,
+      "oriid": 233,
+      "apcid": 7,
+      "orcid": 7,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 185,
+      "orlid": 185,
+      "aplzsid": 9,
+      "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "Jaguar_FTypeRCoupe_2016_Wheel3A_3D"
+        "Jaguar_FTypeRCoupe_2016_Wheel2A_3D"
       ],
+      "opcn": "Jaguar_FTypeRCoupe_2016_Wheel2A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -581,6 +594,7 @@
           ]
         }
       ],
+      "fpin": 1,
       "rpst": [
         {
           "rvlo": 0,
@@ -599,8 +613,13 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 501,
       "cepi": 0,
       "tdut": 18.219,
@@ -622,15 +641,12 @@
       "gacp": false,
       "paid": 494,
       "wpid": 2147483647,
-      "inid": 229,
-      "caid": 3,
-      "lzsid": 15,
-      "livid": 187,
-      "whbn": "Wheel3A_3D",
+      "inid": 233,
+      "caid": 7,
+      "lzsid": 9,
+      "livid": 185,
+      "whbn": "Wheel2A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
