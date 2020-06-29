@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 1669,
+    {
+      "unid": 4071,
       "crdb": "Shelby_SuperSnakeRewardRecycled_2019",
       "awar": false,
       "grsp": [
@@ -23,20 +19,37 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 5,
-      "orpi": 5,
-      "apiid": 957,
-      "oriid": 957,
-      "apcid": 0,
-      "orcid": 0,
-      "aplid": 468,
-      "orlid": 468,
+      "appi": 8,
+      "orpi": 8,
+      "apiid": 958,
+      "oriid": 958,
+      "apcid": 3,
+      "orcid": 3,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 464,
+      "orlid": 464,
       "aplzsid": 9,
       "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "Shelby_SuperSnakeRewardRecycled_2019_Wheel1A_3D"
+        "Shelby_SuperSnakeRewardRecycled_2019_Wheel1B_3D"
       ],
+      "opcn": "Shelby_SuperSnakeRewardRecycled_2019_Wheel1B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -579,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -597,6 +611,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 603,
       "cepi": 0,
       "tdut": 16.051,
@@ -616,17 +637,14 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 126,
+      "paid": 118,
       "wpid": 2147483647,
-      "inid": 957,
-      "caid": 0,
+      "inid": 958,
+      "caid": 3,
       "lzsid": 9,
-      "livid": 468,
-      "whbn": "Wheel1A_3D",
+      "livid": 464,
+      "whbn": "Wheel1B_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
