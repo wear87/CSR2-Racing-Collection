@@ -1,5 +1,5 @@
     {
-      "unid": 3335,
+      "unid": 3333,
       "crdb": "Mazda_RX7RewardRecycled_1993",
       "awar": false,
       "grsp": [
@@ -18,8 +18,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 1,
-      "orpi": 1,
+      "appi": 4,
+      "orpi": 4,
       "apiid": 439,
       "oriid": 439,
       "apcid": 0,
@@ -46,9 +46,9 @@
       "orlzsid": -2147483648,
       "apln": "",
       "apcn": [
-        "Mazda_RX7RewardRecycled_1993_Wheel2A_3D"
+        "Mazda_RX7RewardRecycled_1993_Wheel2B_3D"
       ],
-      "opcn": "Mazda_RX7RewardRecycled_1993_Wheel2A_3D",
+      "opcn": "Mazda_RX7RewardRecycled_1993_Wheel2B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -636,13 +636,13 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 888,
+      "paid": 891,
       "wpid": 2147483647,
       "inid": 439,
       "caid": 0,
       "lzsid": -2147483648,
       "livid": -2147483648,
-      "whbn": "Wheel2A_3D",
+      "whbn": "Wheel2B_3D",
       "tlad": 0.0,
       "need": false,
       "cmlv": 0
