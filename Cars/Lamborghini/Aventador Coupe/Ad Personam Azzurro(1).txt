@@ -1,5 +1,5 @@
     {
-      "unid": 1351,
+      "unid": 3002,
       "crdb": "Lamborghini_AventadorLP7004_2011",
       "awar": false,
       "grsp": [
@@ -22,18 +22,35 @@
       "ttpp": 0.5,
       "appi": 10,
       "orpi": 10,
-      "apiid": 241,
-      "oriid": 241,
-      "apcid": 68,
-      "orcid": 68,
-      "aplid": -2147483648,
-      "orlid": -2147483648,
-      "aplzsid": -2147483648,
-      "orlzsid": -2147483648,
+      "apiid": 572,
+      "oriid": 572,
+      "apcid": 70,
+      "orcid": 70,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 198,
+      "orlid": 198,
+      "aplzsid": 15,
+      "orlzsid": 15,
       "apln": "",
       "apcn": [
         "Lamborghini_AventadorLP7004_2011_Wheel2A_3D"
       ],
+      "opcn": "Lamborghini_AventadorLP7004_2011_Wheel2A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -576,6 +593,7 @@
           ]
         }
       ],
+      "fpin": 1,
       "rpst": [
         {
           "rvlo": 0,
@@ -594,6 +612,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 604,
       "cepi": 0,
       "tdut": 16.03,
@@ -613,13 +638,14 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 488,
+      "paid": 624,
       "wpid": 2147483647,
-      "inid": 241,
-      "caid": 68,
-      "lzsid": 2147483647,
-      "livid": 2147483647,
+      "inid": 572,
+      "caid": 70,
+      "lzsid": 15,
+      "livid": 198,
       "whbn": "Wheel2A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
