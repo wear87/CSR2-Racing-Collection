@@ -1,5 +1,5 @@
     {
-      "unid": 1310,
+      "unid": 3587,
       "crdb": "Mini_CooperS_2014",
       "awar": false,
       "grsp": [
@@ -25,6 +25,22 @@
       "oriid": 495,
       "apcid": 3,
       "orcid": 3,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": 131,
       "orlid": 131,
       "aplzsid": 15,
@@ -33,6 +49,7 @@
       "apcn": [
         "Mini_CooperS_2014_Wheel6A_3D"
       ],
+      "opcn": "Mini_CooperS_2014_Wheel6A_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 1,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,6 +611,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 164,
       "cepi": 0,
       "tdut": 15.36,
@@ -620,5 +645,6 @@
       "livid": 131,
       "whbn": "Wheel6A_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
