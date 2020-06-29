@@ -1,5 +1,5 @@
     {
-      "unid": 3229,
+      "unid": 3230,
       "crdb": "LocalMotor_RallyFighter_2013",
       "awar": false,
       "grsp": [
@@ -41,15 +41,15 @@
       "opcns": 0,
       "oppns": 0,
       "opnpid": -2147483648,
-      "aplid": 401,
-      "orlid": 401,
+      "aplid": 405,
+      "orlid": 405,
       "aplzsid": 9,
       "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "LocalMotor_RallyFighter_2013_Wheel1B_3D"
+        "LocalMotor_RallyFighter_2013_Wheel2B_3D"
       ],
-      "opcn": "LocalMotor_RallyFighter_2013_Wheel1B_3D",
+      "opcn": "LocalMotor_RallyFighter_2013_Wheel2B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -631,8 +631,8 @@
       "ctie": "TIER_3",
       "csrc": "Gacha",
       "nupl": {
-        "txt": "",
-        "cpf": false
+        "txt": "1",
+        "cpf": true
       },
       "esup": false,
       "elcl": 0,
@@ -642,8 +642,8 @@
       "inid": 745,
       "caid": 9,
       "lzsid": 9,
-      "livid": 401,
-      "whbn": "Wheel1B_3D",
+      "livid": 405,
+      "whbn": "Wheel2B_3D",
       "tlad": 0.0,
       "need": false,
       "cmlv": 0

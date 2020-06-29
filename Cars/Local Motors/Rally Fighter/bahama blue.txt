@@ -1,9 +1,5 @@
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
-{
-      "unid": 3521,
+    {
+      "unid": 3244,
       "crdb": "LocalMotor_RallyFighter_2013",
       "awar": false,
       "grsp": [
@@ -29,14 +25,31 @@
       "oriid": 745,
       "apcid": 9,
       "orcid": 9,
-      "aplid": 404,
-      "orlid": 404,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
+      "aplid": 409,
+      "orlid": 409,
       "aplzsid": 9,
       "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "LocalMotor_RallyFighter_2013_Wheel1A_3D"
+        "LocalMotor_RallyFighter_2013_Wheel2B_3D"
       ],
+      "opcn": "LocalMotor_RallyFighter_2013_Wheel2B_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -579,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -597,18 +611,23 @@
           "rvlf": 0
         }
       ],
-      "grpsp": 0,
-      "grpts": 0,
-      "cppi": 405,
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
+      "cppi": 392,
       "cepi": 0,
-      "tdut": 12.637,
-      "tdtt": 12.637,
-      "ttqm": 12.637,
-      "tthm": 19.719,
-      "tt60": 4.457,
-      "tt1h": 9.293,
-      "spqm": 116.774,
-      "sphm": 132.656,
+      "tdut": 12.799,
+      "tdtt": 12.799,
+      "ttqm": 12.799,
+      "tthm": 19.888,
+      "tt60": 4.665,
+      "tt1h": 9.518,
+      "spqm": 116.458,
+      "sphm": 132.573,
       "ctie": "TIER_3",
       "csrc": "Gacha",
       "nupl": {
@@ -623,12 +642,9 @@
       "inid": 745,
       "caid": 9,
       "lzsid": 9,
-      "livid": 404,
-      "whbn": "Wheel1A_3D",
+      "livid": 409,
+      "whbn": "Wheel2B_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
-/**
-*
-* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
-*/
