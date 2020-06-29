@@ -1,5 +1,5 @@
     {
-      "unid": 453,
+      "unid": 3890,
       "crdb": "Porsche_718BoxsterSpyder_2020",
       "awar": false,
       "grsp": [
@@ -25,6 +25,22 @@
       "oriid": 995,
       "apcid": 83,
       "orcid": 83,
+      "apnid": -2147483648,
+      "apnzid": -2147483648,
+      "apncf": -2147483648,
+      "apncb": -2147483648,
+      "apfid": -2147483648,
+      "apcns": 0,
+      "appns": 0,
+      "apnpid": -2147483648,
+      "opnid": -2147483648,
+      "opnzid": -2147483648,
+      "opncf": -2147483648,
+      "opncb": -2147483648,
+      "opfid": -2147483648,
+      "opcns": 0,
+      "oppns": 0,
+      "opnpid": -2147483648,
       "aplid": -2147483648,
       "orlid": -2147483648,
       "aplzsid": -1,
@@ -33,6 +49,7 @@
       "apcn": [
         "Porsche_718BoxsterSpyder_2020_Wheel1C_3D"
       ],
+      "opcn": "Porsche_718BoxsterSpyder_2020_Wheel1C_3D",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
@@ -575,6 +592,7 @@
           ]
         }
       ],
+      "fpin": 2,
       "rpst": [
         {
           "rvlo": 0,
@@ -593,6 +611,13 @@
           "rvlf": 0
         }
       ],
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
       "cppi": 402,
       "cepi": 0,
       "tdut": 12.67,
@@ -617,8 +642,9 @@
       "inid": 995,
       "caid": 83,
       "lzsid": -1,
-      "livid": 2147483647,
+      "livid": -2147483648,
       "whbn": "Wheel1C_3D",
       "tlad": 0.0,
-      "need": false
+      "need": false,
+      "cmlv": 0
     }
