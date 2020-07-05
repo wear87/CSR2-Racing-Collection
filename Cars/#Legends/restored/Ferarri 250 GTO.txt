@@ -628,7 +628,7 @@
       "spqm": 111.028,
       "sphm": 127.62,
       "ctie": "TIER_2",
-      "csrc": "Prize",
+      "csrc": "GenericRewards",
       "nupl": {
         "txt": "",
         "cpf": false
