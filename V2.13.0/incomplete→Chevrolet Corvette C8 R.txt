@@ -1,5 +1,5 @@
     {
-      "unid": 4130,
+      "unid": 4200,
       "crdb": "Chevrolet_CorvetteC8RMS_2020",
       "awar": false,
       "grsp": [
@@ -617,17 +617,17 @@
       "fcu": false,
       "pncu": false,
       "cncu": false,
-      "cppi": 163,
+      "cppi": 166,
       "cepi": 0,
-      "tdut": 15.366,
-      "tdtt": 15.366,
+      "tdut": 24.55,
+      "tdtt": 24.55,
       "ttqm": 15.366,
       "tthm": 24.55,
       "tt60": 6.658,
       "tt1h": 20.724,
       "spqm": 89.222,
       "sphm": 102.888,
-      "ctie": "TIER_1",
+      "ctie": "TIER_5",
       "csrc": "Prize",
       "nupl": {
         "txt": "",
