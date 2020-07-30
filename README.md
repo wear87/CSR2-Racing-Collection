@@ -2,16 +2,14 @@
 Project feedback, bug reports and comments are welcomed over at our discord server: https://discord.gg/XVZbNan <br>
 
 **Notes:**<br>
-① This huge racing project is no longer my own maintenance. 😄I am very honored to meet the two partners of the team. They are **Meo Chan** and **bitsnbytescoding**. 👍Their capabilities are very good. We plan to fully update the racing library code to version 2.12.1. And optimize the file directory and file name, if you are interested in our project, please check the second description.↓↓↓<br>
-
-② We're recruiting!<br>
+① We're recruiting!<br>
 Do you think there is something in the project that can be improved? <br>
 Do you have any good ideas about how should we run this project? <br>
 Join us! Be a part of this project and make your ideas come true! <br>
 We're activly looking for new helping hands and if you got the skills and traits that can be useful, then you can be our next contributor! <br>
 Join our discord channel and ask all about it in the project chatting room!<br>
 
-③ Contact Details:<br>
+② Contact Details:<br>
 Discord Server: https://discord.gg/XVZbNan <br>
 ****
 **Project Description:** <br>
