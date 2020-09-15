@@ -9,13 +9,14 @@ But we could need your help! Donate to this project and help us! Buy us a cup of
 This is 100% optional and you can still use our project for free as usual. <br>
 Join our discord channel and ask all about it in the project chatting room!<br>
 Thanks for your support and happy racing!<br>
+[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Paypal-Donate-Button.png)](https://www.paypal.me/wear87)
 
-② Contact Details:<br>
-Discord Server: https://discord.gg/XVZbNan <br>
-
-③ Request to link your database to this project:<br>
+② Request to link your database to this project:<br>
 We welcome the use of our project for non-commercial purposes!<br>
 Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
+
+③ Contact Details:<br>
+Discord Server: https://discord.gg/XVZbNan <br>
 ****
 **Project Description:** <br>
 All cars are normally taken from the game without any destructive codes. <br>
