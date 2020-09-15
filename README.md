@@ -2,15 +2,20 @@
 Project feedback, bug reports and comments are welcomed over at our discord server: https://discord.gg/XVZbNan <br>
 
 **Notes:**<br>
-① We're recruiting!<br>
-Do you think there is something in the project that can be improved? <br>
-Do you have any good ideas about how should we run this project? <br>
-Join us! Be a part of this project and make your ideas come true! <br>
-We're activly looking for new helping hands and if you got the skills and traits that can be useful, then you can be our next contributor! <br>
+① Donations are welcome!<br>
+Keeping a project this big running smoothly really need lots of effort and we put lots of our free times into it.<br>
+We will keep on releasing new cars as soon as the game update is rolled out and keep them nice and clean directly extract from the game codes **for free**.<br>
+But we could need your help! Donate to this project and help us! Buy us a cup of coffee or a muffin will make our days!<br>
+This is 100% optional and you can still use our project for free as usual. <br>
 Join our discord channel and ask all about it in the project chatting room!<br>
+Thanks for your support and happy racing!<br>
 
 ② Contact Details:<br>
 Discord Server: https://discord.gg/XVZbNan <br>
+
+③ Request to link your database to this project:<br>
+We welcome the use of our project for non-commercial purposes!<br>
+Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
 ****
 **Project Description:** <br>
 All cars are normally taken from the game without any destructive codes. <br>
