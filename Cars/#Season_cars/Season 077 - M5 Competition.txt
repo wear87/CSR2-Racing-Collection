@@ -613,6 +613,15 @@
           "rvlf": 0
         }
       ],
+      "tscs": {
+        "BODYKIT": 0,
+        "WHEELS": 0,
+        "WING": 0,
+        "BOOST_COLOR": 0,
+        "HOOD": 0,
+        "RIMS": 0,
+        "TIRE": 0
+      },
       "fpul": 0,
       "rsup": 0,
       "rpbb": 0,
