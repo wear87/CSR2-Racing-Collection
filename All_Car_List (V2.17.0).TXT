@@ -118,7 +118,6 @@ Bugatti_VeyronSuperSport_2012
 Bugatti_X16_2024
 Cadillac_CTSVRewardRecycled_2017
 Cadillac_CTSVReward_2017
-Car_List
 Chevrolet_AlphaSixCamaroSSCrewRecycled_2016
 Chevrolet_AlphaSixCamaroSSCrew_2016
 Chevrolet_C10Elite_2016
