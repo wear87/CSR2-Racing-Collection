@@ -28,7 +28,8 @@ Due to the large number of car catalogs, it is recommended to use the github sea
 Link address: https://git.io/JfApq <br>
 ****
 ## Update to 2.17.0
-![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.17.0.png)
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.17.0-Elite%20Tokin.png)
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.17.0_Final.png)
 ****
 ## Update to 2.16.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.16.0-Elite%20Tokin_Complete.png)
