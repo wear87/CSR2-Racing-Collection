@@ -1,5 +1,5 @@
     {
-      "unid": 186,
+      "unid": 4465,
       "crdb": "Spyker_C8PreliatorRewardRecycled_2017",
       "awar": false,
       "grsp": [
@@ -629,14 +629,14 @@
       "cncu": false,
       "cppi": 602,
       "cepi": 0,
-      "tdut": 0.0,
-      "tdtt": 0.0,
-      "ttqm": 0.0,
-      "tthm": 0.0,
-      "tt60": 0.0,
-      "tt1h": 0.0,
-      "spqm": 0.0,
-      "sphm": 0.0,
+      "tdut": 16.087,
+      "tdtt": 16.087,
+      "ttqm": 10.259,
+      "tthm": 16.087,
+      "tt60": 2.747,
+      "tt1h": 5.529,
+      "spqm": 143.193,
+      "sphm": 164.117,
       "ctie": "TIER_5",
       "csrc": "Gacha",
       "nupl": {
@@ -655,5 +655,6 @@
       "whbn": "Wheel2D_3D",
       "tlad": 0.0,
       "need": false,
-      "cmlv": 0
+      "cmlv": 0,
+      "isra": false
     }
