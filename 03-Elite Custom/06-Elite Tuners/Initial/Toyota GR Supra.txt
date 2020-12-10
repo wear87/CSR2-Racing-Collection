@@ -640,7 +640,7 @@
       "spqm": 147.552,
       "sphm": 171.688,
       "ctie": "TIER_5",
-      "csrc": "Gacha",
+      "csrc": "GenericRewards",
       "nupl": {
         "txt": "",
         "cpf": false
