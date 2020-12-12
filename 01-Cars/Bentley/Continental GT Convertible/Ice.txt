@@ -1,5 +1,5 @@
     {
-      "unid": 1955,
+      "unid": 4530,
       "crdb": "Bentley_ContinentalGTConvertibleRewardRecycled_2019",
       "awar": false,
       "grsp": [
@@ -657,5 +657,6 @@
       "whbn": "Wheel3A_3D",
       "tlad": 0.0,
       "need": false,
-      "cmlv": 0
+      "cmlv": 0,
+      "isra": false
     }
