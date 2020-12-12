@@ -27,7 +27,7 @@ After a new version is released, cars from the previous version will be archived
 Due to the large number of car catalogs, it is recommended to use the github search function to find the car you need.<br>
 Link address: https://git.io/JfApq <br>
 ****
-## Update to 2.17.0
+## Update to 2.17.0→2.17.2
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.17.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.17.0_Final.png)
 ****
