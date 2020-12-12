@@ -1,5 +1,5 @@
     {
-      "unid": 4554,
+      "unid": 4538,
       "crdb": "AstonMartin_DBXRewardRecycled_2019",
       "awar": false,
       "grsp": [
@@ -22,8 +22,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 20,
-      "orpi": 20,
+      "appi": 12,
+      "orpi": 12,
       "apiid": 46,
       "oriid": 46,
       "apcid": 108,
@@ -649,7 +649,7 @@
       "esup": false,
       "elcl": 0,
       "gacp": false,
-      "paid": 1598,
+      "paid": 82,
       "wpid": 2147483647,
       "inid": 46,
       "caid": 108,
