@@ -2,6 +2,16 @@
 Project feedback, bug reports and comments are welcomed over at our discord server: https://discord.gg/XVZbNan <br>
 
 **Notes:**<br>
+**Project notice**
+1. In the near future, I will start sorting out all the maximized versions of old cars, categorizing them according to car brands, and will release updates in the form of CHM e-books. The cars catalog will not be changed, and a new catalog will be added to summarize the maximized versions of cars.<br>
+The effect picture is as follows:
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/chm-effect1.png)
+2. The All Fusion parts folder and All Stage 6 parts folder will be optimized to facilitate players to check and use.<br>
+3. The charge is to better serve the players, if you have optimization suggestions, welcome to discord and communicate with me.<br>
+4. The subscription model is under planning, and a notice will be officially released after the relevant functional tests are completed.<br>
+5. Due to the time difference, my online time is different from everyone. I will check and reply to the comments of all players in time. Thank you for supporting my project.<br>
+Message date：June 3, 2021
+
 **Important notice**
 1. Because the file is encrypted, some players are misled by the antivirus software when running the EXE file. Please add the file trust to open it normally.<br>
 2. The document I published is encrypted with the following software, website address: <br>
@@ -26,7 +36,7 @@ Players can freely use all the cars in the current version. The new version upda
 
 In order to make it easier for players to find cars, and the original catalog was bloated, I took the time to optimize the catalog. The cars in the cars folder were changed from the activity classification to the brand classification, so that the classification is clearer in structure.<br>
 Quickly find car links →  https://git.io/JfApq  <br>
-Finishing date: April 6, 2021
+Message date: April 6, 2021
 
 ① Donations are welcome!<br>
 Keeping a project this big running smoothly really need lots of effort and we put lots of our free times into it.<br>
