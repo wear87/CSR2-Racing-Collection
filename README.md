@@ -21,7 +21,8 @@ Players can freely use all the cars in the current version. The new version upda
 5. When the player pays, Please leave your email and machine ID, I will reply to the email in time to inform the password, or contact me at discord (wear87#4510). <br>
 
 6. Payment link: (or click the donate button below) <br>
-[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal2.png)](https://www.paypal.me/wear87)
+
+[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal-blue3.png)](https://www.paypal.me/wear87)
 
 In order to make it easier for players to find cars, and the original catalog was bloated, I took the time to optimize the catalog. The cars in the cars folder were changed from the activity classification to the brand classification, so that the classification is clearer in structure.<br>
 Quickly find car links →  https://git.io/JfApq  <br>
