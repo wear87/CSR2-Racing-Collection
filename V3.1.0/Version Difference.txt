@@ -1,5 +1,0 @@
-20 USD --- Individual player - Initial configuration version, CHM e-book format
-30 USD --- Individual player - Maximum configuration version, CHM e-book format
-40 USD --- Webmaster deployment - Initialization version
-45 USD --- Webmaster deployment - Maximum version
-Webmaster deployment note:  compressed package format, choose one of them,Pure code facilitates your background deployment.
