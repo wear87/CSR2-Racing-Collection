@@ -2,22 +2,6 @@
 Project feedback, bug reports and comments are welcomed over at our discord server: https://discord.gg/XVZbNan <br>
 
 **Notes:**<br>
-**Project notice**
-1. In the near future, I will start sorting out all the maximized versions of old cars, categorizing them according to car brands, and will release updates in the form of CHM e-books. The cars catalog will not be changed, and a new catalog will be added to summarize the maximized versions of cars.<br>
-The effect picture is as follows:
-![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/chm-effect1.png)
-2. The All Fusion parts folder and All Stage 6 parts folder will be optimized to facilitate players to check and use.<br>
-3. The charge is to better serve the players, if you have optimization suggestions, welcome to discord and communicate with me.<br>
-4. The subscription model is under planning, and a notice will be officially released after the relevant functional tests are completed.<br>
-5. Due to the time difference, my online time is different from everyone. I will check and reply to the comments of all players in time. Thank you for supporting my project.<br>
-Message date：June 3, 2021
-
-**Important notice**
-1. Because the file is encrypted, some players are misled by the antivirus software when running the EXE file. Please add the file trust to open it normally.<br>
-2. The document I published is encrypted with the following software, website address: <br>
-   http://www.drmsoft.com/Universal-File-Encryptor.asp <br>
-   If you are interested, you can try and check to ensure that the software is free of viruses and Trojans;
-
 **Important updates**
 1. The project has undergone 1 year and 6 months of updates. In order to maintain this huge project, I paid a lot of time and energy. In order to maintain my motivation for subsequent updates, after a careful decision, I changed to a partial payment model from the next version. <br>
 
@@ -28,7 +12,7 @@ Players can freely use all the cars in the current version. The new version upda
 
 4. Charges are based on the number of updates of the major version. Please select the corresponding file to pay according to your actual needs. All files include all cars in the current new version. For version differences, please check the "Version Difference" document description in the folder; <br>
 
-5. When the player pays, Please leave your email and machine ID, I will reply to the email in time to inform the password, or contact me at discord (wear87#4510). <br>
+5. When the player pays, Please leave your email, I will reply to the email in time to inform the password, or contact me at discord (wear87#4510). <br>
 
 6. Payment link: (or click the donate button below) <br>
 
