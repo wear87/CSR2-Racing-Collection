@@ -3,7 +3,7 @@ Project feedback, bug reports and comments are welcomed over at our discord serv
 
 **Notes:**<br>
 **Important updates**
-1. The project has undergone 1 year and 6 months of updates. In order to maintain this huge project, I paid a lot of time and energy. In order to maintain my motivation for subsequent updates, after a careful decision, I changed to a partial payment model from the next version. <br>
+1. The project has undergone 1 year and 8 months of updates. In order to maintain this huge project, I paid a lot of time and energy. In order to maintain my motivation for subsequent updates, after a careful decision, I changed to a partial payment model from the next version. <br>
 
 2. What is the partial payment model? <br>
 Players can freely use all the cars in the current version. The new version update will be released on github in the form of a compressed package, but it is encrypted. Players can use the compressed password after payment.<br>
@@ -44,6 +44,10 @@ All cars are stock configuration without any upgrades or modification. <br>
 This project ONLY includes official colors and rare imports colors. <br>
 This project is built for car collection, learning and communication purposes. Any commercial use is prohibited. <br>
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
+****
+## Update to 3.2.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.2.0.png)
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.2.0-Elite%20Tokin.png)
 ****
 ## Update to 3.1.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.1.0.png)
