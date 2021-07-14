@@ -1,7 +1,3 @@
-      "msou": 3009000,
-      "nuub": 35,
-      "ccna": 0,
-      "upst": [
         {
           "lvlo": 6,
           "lvlf": 6,
