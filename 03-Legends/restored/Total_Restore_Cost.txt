@@ -1,0 +1,34 @@
+NSB£º
+    "crpe": {
+      "Ferrari_250GTOClassic_1962": 14800,
+      "AstonMartin_DB5Classic_1964": 17400,
+      "MercedesBenz_300SLClassic_1954": 17400,
+      "Porsche_CarreraGTClassic_2003": 50000,
+      "Bugatti_EB110SSClassic_1992": 50000,
+      "Shelby_Cobra427SCClassic_1965": 25800,
+      "Honda_NSXRClassic_1992": 36000,
+      "Lamborghini_CountachClassic_1988": 40400,
+      "Pontiac_GTOTheJudgeClassic_1969": 29600,
+      "Chevrolet_CorvetteZR1Classic_1970": 25800,
+      "Plymouth_HemiCudaClassic_1971": 38200,
+      "Jaguar_XJ220Classic_1993": 53400,
+      "Saleen_S7Classic_2004": 56400,
+      "Ford_GT40MkII_1966": 35600
+    },
+
+SCB£º
+"RestorationPartsEarned": {
+    "Ferrari_250GTOClassic_1962": 14800,
+    "AstonMartin_DB5Classic_1964": 17400,
+    "MercedesBenz_300SLClassic_1954": 17400,
+    "Porsche_CarreraGTClassic_2003": 50000,
+    "Bugatti_EB110SSClassic_1992": 50000,
+    "Shelby_Cobra427SCClassic_1965": 25800,
+    "Honda_NSXRClassic_1992": 36000,
+    "Lamborghini_CountachClassic_1988": 40400,
+    "Pontiac_GTOTheJudgeClassic_1969": 29600,
+    "Chevrolet_CorvetteZR1Classic_1970": 25800,
+    "Plymouth_HemiCudaClassic_1971": 38200,
+    "Jaguar_XJ220Classic_1993": 53400,
+    "Saleen_S7Classic_2004": 56400,
+    "Ford_GT40MkII_1966": 35600
