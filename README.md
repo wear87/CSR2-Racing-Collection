@@ -3,17 +3,18 @@ In order to make it easier for players to find cars, and the original catalog wa
 Quickly find car links →  https://git.io/JfApq  <br>
 
 **Notes:**<br>
-**Important updates**
-1. From now on, the project starts to implement the membership subscription mode, members can access all the files in the project with a special password, which is valid for one month and needs to be renewed after the expiration to continue using.<br>
-2. The membership price is $15 per month.<br>
-3. All cars have been maximized. (Not including the plot car)<br>
-4. The files are easily killed by antivirus software due to the encryption function, please join the whitelist to use. <br>
+**Important updates**<br>
+1. **Due to the large number of cars, the Golden Star car will always be free. This part will be maximized one by one to facilitate players' use.**
+2. From now on, the project starts to implement the membership subscription mode, members can access all the files in the project with a special password, which is valid for one month and needs to be renewed after the expiration to continue using.<br>
+3. The membership price is $20 per month.<br>
+4. The charging part of the car has been maximized.<br>
+5. The files are easily killed by antivirus software due to the encryption function, please join the whitelist to use. <br>
    Encryption service from: http://www.drmsoft.com/<br>
-5. Open any encrypted file in the project and you will see the window prompt and machine ID.<br>
-6. Please leave a message with your machine ID and email address when making payment, I will reply promptly with the membership password.
-7. Payment link:<br>
+6. Open any encrypted file in the project and you will see the window prompt and machine ID.<br>
+7. Please leave a message with your machine ID and email address when making payment, I will reply promptly with the membership password.
+8. Payment link:<br>
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal-blue3.png)](https://www.paypal.me/wear87)
-8. If you have any questions, please contact Discord: wear87#4510. <br>
+9. If you have any questions, please contact Discord: wear87#4510. <br>
 
 Request to link your database to this project:<br>
 Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
