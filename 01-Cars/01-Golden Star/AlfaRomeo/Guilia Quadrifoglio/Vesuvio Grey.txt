@@ -55,8 +55,8 @@
       "ditr": 0.0,
       "rcat": 0,
       "rwon": 0,
-      "msou": 0,
-      "nuub": 0,
+      "msou": 1496200,
+      "nuub": 35,
       "ccna": 0,
       "upst": [
         {
@@ -643,7 +643,7 @@
         "txt": "",
         "cpf": false
       },
-      "esup": false,
+      "esup": true,
       "elcl": 0,
       "gacp": false,
       "paid": 1215,
