@@ -54,537 +54,537 @@
       "ditr": 0.0,
       "rcat": 0,
       "rwon": 0,
-      "msou": 0,
-      "nuub": 0,
+      "msou": 300900,
+      "nuub": 35,
       "ccna": 0,
       "upst": [
         {
-          "lvlo": 0,
-          "lvlf": 0,
+          "lvlo": 5,
+          "lvlf": 5,
           "lvls": [
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             }
           ]
         },
         {
-          "lvlo": 0,
-          "lvlf": 0,
+          "lvlo": 5,
+          "lvlf": 5,
           "lvls": [
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             }
           ]
         },
         {
-          "lvlo": 0,
-          "lvlf": 0,
+          "lvlo": 5,
+          "lvlf": 5,
           "lvls": [
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             }
           ]
         },
         {
-          "lvlo": 0,
-          "lvlf": 0,
+          "lvlo": 5,
+          "lvlf": 5,
           "lvls": [
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             }
           ]
         },
         {
-          "lvlo": 0,
-          "lvlf": 0,
+          "lvlo": 5,
+          "lvlf": 5,
           "lvls": [
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             }
           ]
         },
         {
-          "lvlo": 0,
-          "lvlf": 0,
+          "lvlo": 5,
+          "lvlf": 5,
           "lvls": [
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             }
           ]
         },
         {
-          "lvlo": 0,
-          "lvlf": 0,
+          "lvlo": 5,
+          "lvlf": 5,
           "lvls": [
             {
               "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             },
             {
-              "ulpf": false,
+              "ulpf": true,
               "fsg": [
-                0,
-                0,
-                0,
-                0,
+                1,
+                1,
+                1,
+                1,
                 0
               ]
             }
