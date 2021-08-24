@@ -1,10 +1,18 @@
 # CSR-Racing-2
-In order to make it easier for players to find cars, and the original catalog was bloated, I took the time to optimize the catalog. The cars in the cars folder were changed from the activity classification to the brand classification, so that the classification is clearer in structure.<br>
+Because of the large racing catalog, we recommend using the Quick Find feature that comes with the project in order to make it easier for you to find the cars.<br>
 Quickly find car links →  https://git.io/JfApq  <br>
 
+To be the first to get project updates, please join our Discord channel at →  https://discord.gg/XVZbNan  <br>
+
+
 **Notes:**<br>
-**Important updates**<br>
-1. **Due to the large number of cars, the Golden Star car will always be free. This part will be maximized one by one to facilitate players' use.**
+**Important updates②**<br>
+1. All gold star cars have been maximized and will always serve players for free, if there are any problems with the code, please feel free to give me feedback and I will update it in time! <br>
+2. Purple Star、Season_cars have been maximized，They are a paid membership subscription, just like the new version of the car.<br>
+3. After the release of the new version of the car, the old version of the car will be filed under their respective folders according to the stars, and the gold star car will be used for free, while the purple star car will be used according to the membership subscription.
+
+**Important updates①**<br>
+1. Due to the large number of cars, the Golden Star car will always be free. This part will be maximized one by one to facilitate players' use.<br>
 2. From now on, the project starts to implement the membership subscription mode, members can access all the files in the project with a special password, which is valid for one month and needs to be renewed after the expiration to continue using.<br>
 3. The membership price is $20 per month.<br>
 4. The charging part of the car has been maximized.<br>
