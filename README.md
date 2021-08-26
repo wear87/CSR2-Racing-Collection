@@ -6,7 +6,7 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Notes:**<br>
 **Important updates③**<br>
-1. If you use Microsoft edge browser, downloading files will be blocked. We suggest you use Google Chrome browser to download files.
+1. If you use edge browser, downloading exe files will be blocked. We suggest you use Google Chrome browser to download files.<br>
 
 **Important updates②**<br>
 1. All gold star cars have been maximized and will always serve players for free, if there are any problems with the code, please feel free to give me feedback and I will update it in time! <br>
