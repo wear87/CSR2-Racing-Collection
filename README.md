@@ -5,26 +5,15 @@ Quickly find car links →  https://git.io/JfApq  <br>
 To be the first to get project updates, please join our Discord channel at →  https://discord.gg/XVZbNan  <br>
 
 **Notes:**<br>
-**Important updates③**<br>
-1. If you use Microsoft edge browser, downloading .exe files will be blocked. We suggest you use Google Chrome browser to download files.<br>
+**I've had enough of encryption, it's too much trouble to manage, So only new versions will be charged, all others will be free!!!**
 
-**Important updates②**<br>
-1. All gold star cars have been maximized and will always serve players for free, if there are any problems with the code, please feel free to give me feedback and I will update it in time! <br>
-2. Purple Star、Season_cars have been maximized，They are a paid membership subscription, just like the new version of the car.<br>
-3. After the release of the new version of the car, the old version of the car will be filed under their respective folders according to the stars, and the gold star car will be used for free, while the purple star car will be used according to the membership subscription.
-
-**Important updates①**<br>
-1. Due to the large number of cars, the Golden Star car will always be free. This part will be maximized one by one to facilitate players' use.<br>
-2. From now on, the project starts to implement the membership subscription mode, members can access all the files in the project with a special password, which is valid for one month and needs to be renewed after the expiration to continue using.<br>
-3. The membership price is $20 per month.<br>
-4. The charging part of the car has been maximized.<br>
-5. The files are easily killed by antivirus software due to the encryption function, please join the whitelist to use. <br>
-   Encryption service from: http://www.drmsoft.com/<br>
-6. Open any encrypted file in the project and you will see the window prompt and machine ID.<br>
-7. Please leave a message with your machine ID and email address when making payment, I will reply promptly with the membership password.
-8. Payment link:<br>
+**Important updates**<br>
+1. All cars are rolled back to unencrypted state and all cars are maximized (not including plot cars). <br>
+2. Paid purchase for new versions of cars only, $20 per version, includes all new cars. <br>
+3. Please leave a message with your email address when making payment, I will reply promptly with the Unpacking password. <br>
+4. Payment link:<br>
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal-blue3.png)](https://www.paypal.me/wear87)
-9. If you have any questions, please contact Discord: wear87#4510. <br>
+5. If you have any problems, questions, feedback issues with the code, please contact Discord: wear87#4510 or https://discord.gg/XVZbNan <br>
 
 Request to link your database to this project:<br>
 Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
