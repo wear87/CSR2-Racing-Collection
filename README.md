@@ -5,7 +5,7 @@ Quickly find car links →  https://git.io/JfApq  <br>
 To be the first to get project updates, please join our Discord channel at →  https://discord.gg/XVZbNan  <br>
 
 **Notes:**<br>
-**I've had enough of encryption, it's too much trouble to manage, So only new versions will be charged, all others will be free!!!**
+**2021-10-24 Optimize file directories, add initialization and maximize file versions**
 
 **Important updates**<br>
 1. All cars are rolled back to unencrypted state and all cars are maximized (not including plot cars). <br>
@@ -17,9 +17,11 @@ To be the first to get project updates, please join our Discord channel at →  
 
 Request to link your database to this project:<br>
 Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
-****
+## Update to 3.4.0 → 3.4.1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V3.4.0%20NewCar1.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Car%20Upgrade%20Cash%20Cost%20Table.png)
-## Update to 3.3.0
+****
+## Update to 3.3.0→ 3.3.1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.3.0.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.3.0-Elite%20Tokin.png)
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V3.3.0-News.png)](https://csr-racing.com/en/posts/3-3-dev-update-and-europe-series-overview/)
