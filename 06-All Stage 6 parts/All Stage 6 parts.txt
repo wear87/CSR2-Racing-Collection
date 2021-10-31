@@ -15328,5 +15328,173 @@
       "esut": "TRANSMISSION",
       "esdb": "Toyota_SupraMKIVVaris_1994"
     },
-    10
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Lamborghini_SC20_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "MercedesAMG_G63SUVRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Lamborghini_SC20_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Lamborghini_SC20_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Lamborghini_SC20_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Lamborghini_SC20_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Lamborghini_SC20_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Pagani_ZondaCinqueCoupe_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Audi_RS5CoupeReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Pagani_ZondaCinqueCoupe_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Pagani_ZondaCinqueCoupe_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Pagani_ZondaCinqueCoupe_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Pagani_ZondaCinqueCoupe_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Pagani_ZondaCinqueCoupe_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Audi_RS5CoupeReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Audi_RS5CoupeReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Audi_RS5CoupeReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Audi_RS5CoupeReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Audi_RS5CoupeReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Audi_RS5CoupeReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Lamborghini_SC20_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "MercedesAMG_G63SUVRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Pagani_ZondaCinqueCoupe_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "MercedesAMG_G63SUVReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "MercedesAMG_G63SUVReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "MercedesAMG_G63SUVReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "MercedesAMG_G63SUVReward_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "MercedesAMG_G63SUVReward_2020"
+    },
+    10,
   ],
