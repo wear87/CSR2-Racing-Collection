@@ -1,5 +1,5 @@
     {
-      "unid": 4196,
+      "unid": 5129,
       "crdb": "Hennessey_VenomF5Gold_2020",
       "awar": false,
       "grsp": [
@@ -20,8 +20,8 @@
       "tssr": 0.5,
       "ttup": 0.5,
       "ttpp": 0.5,
-      "appi": 0,
-      "orpi": 0,
+      "appi": 3,
+      "orpi": 3,
       "apiid": 804,
       "oriid": 804,
       "apcid": 5,
@@ -647,7 +647,7 @@
       "esup": true,
       "elcl": 0,
       "gacp": false,
-      "paid": 135,
+      "paid": 676,
       "wpid": 2147483647,
       "inid": 804,
       "caid": 5,
@@ -656,5 +656,6 @@
       "whbn": "Wheel1A_3D",
       "tlad": 0.0,
       "need": false,
-      "cmlv": 0
+      "cmlv": 0,
+      "isra": false
     }
