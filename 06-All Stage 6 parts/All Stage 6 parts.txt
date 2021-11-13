@@ -8524,13 +8524,13 @@
       "esut": "INTAKE",
       "esdb": "Lamborghini_HuracanEvoSpyderReward_2019"
     },
-    10,
+    31,
     {
       "esnn": 0,
       "esut": "NITROUS",
       "esdb": "Lamborghini_HuracanEvoSpyderReward_2019"
     },
-    10,
+    31,
     {
       "esnn": 0,
       "esut": "BODY",
@@ -15497,4 +15497,214 @@
       "esdb": "MercedesAMG_G63SUVReward_2020"
     },
     10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_CamaroSSNASCARXfinity_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_CamaroSSNASCARXfinity_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_CamaroSSNASCARXfinity_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_CamaroSSNASCARXfinity_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_CamaroSSNASCARXfinity_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_CamaroSSNASCARXfinity_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_CamaroSSNASCARXfinity_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ferrari_488GTModificata_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ferrari_488GTModificata_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ferrari_488GTModificata_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ferrari_488GTModificata_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ferrari_488GTModificata_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ferrari_488GTModificata_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ferrari_488GTModificata_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ford_MustangGTHoonicornV2_1965"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ford_MustangGTHoonicornV2_1965"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ford_MustangGTHoonicornV2_1965"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ford_MustangGTHoonicornV2_1965"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ford_MustangGTHoonicornV2_1965"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "SSC_TuataraWRE_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ford_MustangGTHoonicornV2_1965"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ford_MustangGTHoonicornV2_1965"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_ChargerHellcatRedeyeRewardRecycled_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_ChargerHellcatRedeyeReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_ChargerHellcatRedeyeReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_ChargerHellcatRedeyeReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_ChargerHellcatRedeyeReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_ChargerHellcatRedeyeReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_ChargerHellcatRedeyeReward_2021"
+    },
+    10
   ],
