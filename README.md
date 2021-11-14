@@ -4,8 +4,17 @@ Quickly find car links →  https://git.io/JfApq  <br>
 
 To be the first to get project updates, please join our Discord channel at →  https://discord.gg/XVZbNan  <br>
 
-**Notes:**<br>
-**2021-10-24 Optimize file directories, add initialization and maximize file versions**
+**Repository Operation Record:**<br>
+
+**2021-11-13：**
+* 3.4.0 version archives the Cars folder.<br>
+* Release 3.5.0 new car and list table.<br>
+* Add 3.5.0 new car stage6 parts.<br>
+* Optimize the car name, remove the special characters of the car name file, such as á, é changed to a, e.<br>
+* Venom F5 Concept adds rare imported racing colors.<br>
+
+**2021-10-24：**
+* Optimize file directories, add initialization and maximize file versions.
 
 **Important updates**<br>
 1. All cars are rolled back to unencrypted state and all cars are maximized (not including plot cars). <br>
