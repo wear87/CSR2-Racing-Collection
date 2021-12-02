@@ -4,8 +4,17 @@ Quickly find car links →  https://git.io/JfApq  <br>
 
 To be the first to get project updates, please join our Discord channel at →  https://discord.gg/XVZbNan  <br>
 
-**Notes:**<br>
-**2021-10-24 Optimize file directories, add initialization and maximize file versions**
+**Repository Operation Record:**<br>
+
+**2021-11-13：**
+* 3.4.0 version archives the Cars folder.<br>
+* Release 3.5.0 new car and list table.<br>
+* Add 3.5.0 new car stage6 parts.<br>
+* Optimize the car name, remove the special characters of the car name file, such as á, é changed to a, e.<br>
+* Venom F5 Concept adds rare imported racing colors.<br>
+
+**2021-10-24：**
+* Optimize file directories, add initialization and maximize file versions.
 
 **Important updates**<br>
 1. All cars are rolled back to unencrypted state and all cars are maximized (not including plot cars). <br>
@@ -17,61 +26,64 @@ To be the first to get project updates, please join our Discord channel at →  
 
 Request to link your database to this project:<br>
 Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
-## Update to 3.4.0 → 3.4.1
+## Update 3.5.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V3.5.0%20NewCar1.png)
+****
+## Update 3.4.0 → 3.4.1→ 3.4.2
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V3.4.0%20NewCar1.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/Car%20Upgrade%20Cash%20Cost%20Table.png)
 ****
-## Update to 3.3.0→ 3.3.1
+## Update 3.3.0→ 3.3.1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.3.0.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.3.0-Elite%20Tokin.png)
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V3.3.0-News.png)](https://csr-racing.com/en/posts/3-3-dev-update-and-europe-series-overview/)
 ****
-## Update to 3.2.0
+## Update 3.2.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.2.0.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.2.0-Elite%20Tokin.png)
 ****
-## Update to 3.1.0
+## Update 3.1.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.1.0.png)
 ****
-## Update to 3.0.2→3.0.3
+## Update 3.0.2→3.0.3
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.0.2-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.0.2.png)
 ****
-## Update to 2.18.0→2.18.1→2.18.2→2.18.3
+## Update 2.18.0→2.18.1→2.18.2→2.18.3
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.18.2.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.18.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.18.0.png)
 ****
-## Update to 2.17.0→2.17.2→2.17.4→2.17.5
+## Update 2.17.0→2.17.2→2.17.4→2.17.5
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.17.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.17.0_Final.png)
 ****
-## Update to 2.16.0
+## Update 2.16.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.16.0-Elite%20Tokin_Complete.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.16.0b1.png)
 ****
-## Update to 2.15.0→2.15.1→2.15.2
+## Update 2.15.0→2.15.1→2.15.2
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.15.0-Elite%20Tokin2.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.15.0b3.png)
 ****
-## Update to 2.14.0→2.14.1
+## Update 2.14.0→2.14.1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.14.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.14.0.png)
 ****
-## Update to 2.13.0
+## Update 2.13.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.13.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.13.0.png)
 ****
-## Update to 2.12.0→2.12.1→2.12.2
+## Update 2.12.0→2.12.1→2.12.2
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12.0-2.png)
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.12%20-Coming%20Soon.jpg)](https://csrracingofficial.tumblr.com/)
 ****
-## Update to 2.11.0→2.11.1
+## Update 2.11.0→2.11.1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.11.0-Elite%20Tokin.png)
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.11.0.png)
 ****
-## Update to 2.10.0→2.10.1→2.10.2→2.10.3
+## Update 2.10.0→2.10.1→2.10.2→2.10.3
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.10.0-Elite%20Tokin.png) 
 ****
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/2.9.3.png)  
