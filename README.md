@@ -7,6 +7,11 @@ To be the first to get project updates, please join our Discord channel at →  
 **Repository Operation Record:**<br>
 
 **2021-11-13：**
+* 3.5.0 version archives the Cars folder.<br>
+* Release 3.6.0 new car and list table.<br>
+* Elite cars filename Optimization.<br>
+
+**2021-11-13：**
 * 3.4.0 version archives the Cars folder.<br>
 * Release 3.5.0 new car and list table.<br>
 * Add 3.5.0 new car stage6 parts.<br>
