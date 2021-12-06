@@ -4,7 +4,7 @@ Quickly find car links →  https://git.io/JfApq  <br>
 
 To be the first to get project updates, please join our Discord channel at →  https://discord.gg/XVZbNan  <br>
 
-**Repository Operation Record:**<br>
+**Repository Update Log:**<br>
 
 **2021-12-06：**
 * 3.5.0 version archives the Cars folder.<br>
