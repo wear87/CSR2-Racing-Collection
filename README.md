@@ -6,6 +6,9 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
+**2022-01-13：**
+* Release 3.7.0 new car and list table.<br>
+
 **2021-12-06：**
 * 3.5.0 version archives the Cars folder.<br>
 * Release 3.6.0 new car and list table.<br>
