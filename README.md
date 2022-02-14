@@ -9,6 +9,7 @@ To be the first to get project updates, please join our Discord channel at →  
 **2022-01-13：**
 * Release 3.7.0 new car and list table.<br>
 * Aventador SVJ 63 Roadster_2020 adds rare imported racing colors.<br>
+* Update DBS Superleggera Volante display level stars. <br>
 
 **2021-12-06：**
 * 3.5.0 version archives the Cars folder.<br>
