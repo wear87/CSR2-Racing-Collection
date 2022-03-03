@@ -41,7 +41,7 @@ To be the first to get project updates, please join our Discord channel at →  
 
 Request to link your database to this project:<br>
 Please reach out to us on Discord and we'll review and grant the permission on a case by case basis.<br>
-## Update 3.7.0
+## Update 3.7.0→ 3.7.1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V3.7.0%20NewCar1.png)
 ****
 ## Update 3.6.0→ 3.6.1→ 3.6.2
