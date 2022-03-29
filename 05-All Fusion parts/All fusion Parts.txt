@@ -802,6 +802,751 @@
       }
     },
     123,
+	{
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_eng1",
+        "ulid": "TEXT_UPGRADE_ENGINE02",
+        "upty": "ENGINE",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.04,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 8.754
+          },
+          {
+            "kfti": 1550.0,
+            "kfva": 16.393
+          },
+          {
+            "kfti": 1850.0,
+            "kfva": 20.161
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 21.828
+          },
+          {
+            "kfti": 3400.0,
+            "kfva": 23.183
+          },
+          {
+            "kfti": 4750.0,
+            "kfva": 23.77
+          },
+          {
+            "kfti": 6500.0,
+            "kfva": 24.212
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_eng0",
+        "ulid": "TEXT_UPGRADE_ENGINE01",
+        "upty": "ENGINE",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.11,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 19.903
+          },
+          {
+            "kfti": 1200.0,
+            "kfva": 24.495
+          },
+          {
+            "kfti": 1500.0,
+            "kfva": 30.686
+          },
+          {
+            "kfti": 1850.0,
+            "kfva": 33.037
+          },
+          {
+            "kfti": 2150.0,
+            "kfva": 34.558
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 36.317
+          },
+          {
+            "kfti": 2900.0,
+            "kfva": 38.014
+          },
+          {
+            "kfti": 4050.0,
+            "kfva": 40.097
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_eng2",
+        "ulid": "TEXT_UPGRADE_ENGINE03",
+        "upty": "ENGINE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 12.017
+          },
+          {
+            "kfti": 1350.0,
+            "kfva": 15.901
+          },
+          {
+            "kfti": 1800.0,
+            "kfva": 20.407
+          },
+          {
+            "kfti": 2250.0,
+            "kfva": 22.563
+          },
+          {
+            "kfti": 2650.0,
+            "kfva": 24.147
+          },
+          {
+            "kfti": 3200.0,
+            "kfva": 25.35
+          },
+          {
+            "kfti": 3950.0,
+            "kfva": 25.455
+          },
+          {
+            "kfti": 6500.0,
+            "kfva": 23.012
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tur2",
+        "ulid": "TEXT_UPGRADE_TURBO03",
+        "upty": "TURBO",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.06,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 1.977
+          },
+          {
+            "kfti": 2000.0,
+            "kfva": 1.981
+          },
+          {
+            "kfti": 2002.0,
+            "kfva": 7.772
+          },
+          {
+            "kfti": 2400.0,
+            "kfva": 25.473
+          },
+          {
+            "kfti": 3400.0,
+            "kfva": 31.103
+          },
+          {
+            "kfti": 6500.0,
+            "kfva": 32.201
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tur1",
+        "ulid": "TEXT_UPGRADE_TURBO02",
+        "upty": "TURBO",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.06,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 0.321
+          },
+          {
+            "kfti": 2250.0,
+            "kfva": 0.365
+          },
+          {
+            "kfti": 2252.25,
+            "kfva": 10.158
+          },
+          {
+            "kfti": 2600.0,
+            "kfva": 19.944
+          },
+          {
+            "kfti": 3350.0,
+            "kfva": 23.36
+          },
+          {
+            "kfti": 4200.0,
+            "kfva": 26.246
+          },
+          {
+            "kfti": 6500.0,
+            "kfva": 28.186
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tur0",
+        "ulid": "TEXT_UPGRADE_TURBO01",
+        "upty": "TURBO",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.07,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 7.931
+          },
+          {
+            "kfti": 1200.0,
+            "kfva": 12.082
+          },
+          {
+            "kfti": 1700.0,
+            "kfva": 17.006
+          },
+          {
+            "kfti": 2350.0,
+            "kfva": 20.256
+          },
+          {
+            "kfti": 3300.0,
+            "kfva": 22.491
+          },
+          {
+            "kfti": 4750.0,
+            "kfva": 24.216
+          },
+          {
+            "kfti": 6500.0,
+            "kfva": 24.213
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_int2",
+        "ulid": "TEXT_UPGRADE_INTAKE03",
+        "upty": "INTAKE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 13.927
+          },
+          {
+            "kfti": 1800.0,
+            "kfva": 18.016
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 19.166
+          },
+          {
+            "kfti": 3600.0,
+            "kfva": 19.912
+          },
+          {
+            "kfti": 6500.0,
+            "kfva": 20.148
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_int1",
+        "ulid": "TEXT_UPGRADE_INTAKE02",
+        "upty": "INTAKE",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.03,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 6.2
+          },
+          {
+            "kfti": 1200.0,
+            "kfva": 9.601
+          },
+          {
+            "kfti": 1500.0,
+            "kfva": 12.217
+          },
+          {
+            "kfti": 2100.0,
+            "kfva": 13.746
+          },
+          {
+            "kfti": 2850.0,
+            "kfva": 14.896
+          },
+          {
+            "kfti": 4000.0,
+            "kfva": 15.739
+          },
+          {
+            "kfti": 6500.0,
+            "kfva": 16.216
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_int0",
+        "ulid": "TEXT_UPGRADE_INTAKE01",
+        "upty": "INTAKE",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 4.507
+          },
+          {
+            "kfti": 1600.0,
+            "kfva": 8.605
+          },
+          {
+            "kfti": 2150.0,
+            "kfva": 10.531
+          },
+          {
+            "kfti": 2750.0,
+            "kfva": 11.875
+          },
+          {
+            "kfti": 3750.0,
+            "kfva": 12.915
+          },
+          {
+            "kfti": 5950.0,
+            "kfva": 13.383
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_nit1",
+        "ulid": "TEXT_UPGRADE_NITROUS02",
+        "upty": "NITROUS",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 1.0,
+        "nhpb": 25.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_nit0",
+        "ulid": "TEXT_UPGRADE_NITROUS01",
+        "upty": "NITROUS",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 2.0,
+        "nhpb": 25.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_nit2",
+        "ulid": "TEXT_UPGRADE_NITROUS03",
+        "upty": "NITROUS",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.01,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 25.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_bod2",
+        "ulid": "TEXT_UPGRADE_BODY03",
+        "upty": "BODY",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 650.0,
+        "drcd": 0.0,
+        "wedi": -9.072,
+        "grdi": -5.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_bod1",
+        "ulid": "TEXT_UPGRADE_BODY02",
+        "upty": "BODY",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": -22.68,
+        "grdi": -25.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_bod0",
+        "ulid": "TEXT_UPGRADE_BODY01",
+        "upty": "BODY",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": -13.608,
+        "grdi": -15.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tir2",
+        "ulid": "TEXT_UPGRADE_TYRES03",
+        "upty": "TYRES",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.03,
+        "wedi": 0.0,
+        "grdi": 46.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tir1",
+        "ulid": "TEXT_UPGRADE_TYRES02",
+        "upty": "TYRES",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.03,
+        "wedi": 0.0,
+        "grdi": 100.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tir0",
+        "ulid": "TEXT_UPGRADE_TYRES01",
+        "upty": "TYRES",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.03,
+        "wedi": 0.0,
+        "grdi": 94.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tra2",
+        "ulid": "TEXT_UPGRADE_TRANS03",
+        "upty": "TRANSMISSION",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.04,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": -0.05,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tra1",
+        "ulid": "TEXT_UPGRADE_TRANS02",
+        "upty": "TRANSMISSION",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": -13.608,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_acura",
+      "upnn": 1,
+      "upfb": true,
+      "upcu": {
+        "adid": "Acura_NSXF9_2018_tra0",
+        "ulid": "TEXT_UPGRADE_TRANS01",
+        "upty": "TRANSMISSION",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.03,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": -0.05,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
     {
       "upma": "id_alfaromeo",
       "upnn": 0,

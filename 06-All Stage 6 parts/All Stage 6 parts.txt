@@ -1,6 +1,48 @@
   "cues": [
     {
       "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Acura_NSXF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Acura_NSXF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Acura_NSXF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Acura_NSXF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Acura_NSXF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Acura_NSXF9_2018"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Acura_NSXF9_2018"
+    },
+    10,
+	{
+      "esnn": 0,
       "esut": "ENGINE",
       "esdb": "AlfaRomeo_4CCoupeCrewRecycled_2013"
     },
@@ -705,6 +747,90 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "AstonMartin_Valhalla_2020"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "AstonMartin_ValkyrieAMRProConcept_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "AstonMartin_ValkyrieAMRProConcept_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "AstonMartin_ValkyrieAMRProConcept_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "AstonMartin_ValkyrieAMRProConcept_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "AstonMartin_ValkyrieAMRProConcept_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "AstonMartin_ValkyrieAMRProConcept_2020"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "AstonMartin_ValkyrieAMRProConcept_2020"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "AstonMartin_ValkyrieSpirit_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "AstonMartin_ValkyrieSpirit_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "AstonMartin_ValkyrieSpirit_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "AstonMartin_ValkyrieSpirit_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "AstonMartin_ValkyrieSpirit_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "AstonMartin_ValkyrieSpirit_2020"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "AstonMartin_ValkyrieSpirit_2020"
     },
     10,
     {
@@ -1421,6 +1547,48 @@
       "esdb": "Audi_RS5Coupe_2014"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Audi_RS7SportbackRewardRecycled_2020"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "INTAKE",
@@ -1719,6 +1887,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Bentley_ContinentalGTSpeed_2016"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Bentley_ContinentalGTSpeedReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Bentley_ContinentalGTSpeedReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Bentley_ContinentalGTSpeedReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Bentley_ContinentalGTSpeedReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Bentley_ContinentalGTSpeedReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Bentley_ContinentalGTSpeedReward_2021"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Bentley_ContinentalGTSpeedReward_2021"
     },
     10,
     {
@@ -3731,6 +3941,48 @@
       "esdb": "Chevrolet_HSCustomsCamaroReward_2016"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_MonteCarloRaceCarF9_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_MonteCarloRaceCarF9_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_MonteCarloRaceCarF9_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_MonteCarloRaceCarF9_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_MonteCarloRaceCarF9_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_MonteCarloRaceCarF9_1995"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_MonteCarloRaceCarF9_1995"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "ENGINE",
@@ -3765,6 +4017,48 @@
       "esnn": 0,
       "esut": "TYRES",
       "esdb": "Chevrolet_NASCARCamaroZL1_2020"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_NovaSSF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_NovaSSF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_NovaSSF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_NovaSSF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_NovaSSF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_NovaSSF9_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_NovaSSF9_1970"
     },
     10,
     {
@@ -4013,6 +4307,48 @@
       "esdb": "Dodge_ChallengerSRTHellcatReward_2015"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_ChallengerSRTSuperStockReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_ChallengerSRTSuperStockReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_ChallengerSRTSuperStockReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_ChallengerSRTSuperStockReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_ChallengerSRTSuperStockReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_ChallengerSRTSuperStockReward_2021"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_ChallengerSRTSuperStockReward_2021"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "TRANSMISSION",
@@ -4233,6 +4569,132 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Dodge_ChargerRTF8_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_ChargerRTF9_1966"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_ChargerRTF9_1966"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_ChargerRTF9_1966"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_ChargerRTF9_1966"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_ChargerRTF9_1966"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_ChargerRTF9_1966"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_ChargerRTF9_1966"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_ChargerTantrumF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_ChargerTantrumF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_ChargerTantrumF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_ChargerTantrumF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_ChargerTantrumF9_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_ChargerTantrumF9_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_ChargerTantrumF9_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_DemonChargerF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_DemonChargerF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_DemonChargerF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_DemonChargerF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_DemonChargerF9_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_DemonChargerF9_2018"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_DemonChargerF9_2018"
     },
     10,
     {
@@ -4457,6 +4919,48 @@
       "esdb": "Dodge_ViperSnakeskinEditionGTC_2017"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_WidebodyChargerF9_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_WidebodyChargerF9_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_WidebodyChargerF9_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_WidebodyChargerF9_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_WidebodyChargerF9_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_WidebodyChargerF9_1968"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_WidebodyChargerF9_1968"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "TRANSMISSION",
@@ -4785,6 +5289,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Ferrari_599GTOReward_2010"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ferrari_599XXEvoluzione_2011"
     },
     10,
     {
@@ -5867,6 +6413,48 @@
       "esdb": "Ford_FocusRS_2017"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ford_MustangFoxbodyF9_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ford_MustangFoxbodyF9_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ford_MustangFoxbodyF9_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ford_MustangFoxbodyF9_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ford_MustangFoxbodyF9_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ford_MustangFoxbodyF9_1987"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ford_MustangFoxbodyF9_1987"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "ENGINE",
@@ -6213,6 +6801,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Ford_MustangF3_1967"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ford_MustangGT350F9_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ford_MustangGT350F9_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ford_MustangGT350F9_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ford_MustangGT350F9_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ford_MustangGT350F9_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ford_MustangGT350F9_2016"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ford_MustangGT350F9_2016"
     },
     10,
     {
@@ -7523,6 +8153,48 @@
       "esdb": "Jaguar_CX75PrototypeReward_2013"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Jaguar_FTYPERConvertibleRewardRecycled_2021"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "NITROUS",
@@ -7761,6 +8433,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Jaguar_XJ220Classic_1993"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Jeep_GladiatorF9_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Jeep_GladiatorF9_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Jeep_GladiatorF9_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Jeep_GladiatorF9_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Jeep_GladiatorF9_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Jeep_GladiatorF9_2019"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Jeep_GladiatorF9_2019"
     },
     10,
     {
@@ -8423,6 +9137,48 @@
       "esdb": "Lamborghini_CountachClassic_1988"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Lamborghini_CountachLPI8004_2022"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "ENGINE",
@@ -9027,6 +9783,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Landrover_RangeRoverEvoqueCoupeCrewRecycled_2016"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Lexus_LC500TNR_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Lexus_LC500TNR_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Lexus_LC500TNR_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Lexus_LC500TNR_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Lexus_LC500TNR_2018"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Lexus_LC500TNR_2018"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Lexus_LC500TNR_2018"
     },
     10,
     {
@@ -9747,6 +10545,90 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Mazda_RX7TNR_1993"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Mazda_RX8F3_2004"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Mazda_RBRX8_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Mazda_RBRX8_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Mazda_RBRX8_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Mazda_RBRX8_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Mazda_RBRX8_2004"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Mazda_RBRX8_2004"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Mazda_RBRX8_2004"
     },
     10,
     {
@@ -11927,6 +12809,48 @@
       "esdb": "Nissan_JukeR20ConceptReward_2015"
     },
     10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_SilviaS14F1_1997"
+    },
+    10,
     {
       "esnn": 0,
       "esut": "ENGINE",
@@ -12033,6 +12957,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Nissan_SkylineGTRF4_2002"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_SkylineGTRR33F1_1995"
     },
     10,
     {
@@ -12159,6 +13125,90 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Nissan_SkylineR33NismoSTune_1995"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_StillenMaximaF1_1999"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_TopSecret350ZF3_2003"
     },
     10,
     {
@@ -12417,6 +13467,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Pagani_Huayra_2014"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Pagani_HuayraR_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Pagani_HuayraR_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Pagani_HuayraR_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Pagani_HuayraR_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Pagani_HuayraR_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Pagani_HuayraR_2021"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Pagani_HuayraR_2021"
     },
     10,
     {
@@ -12795,6 +13887,48 @@
       "esnn": 0,
       "esut": "NITROUS",
       "esdb": "Plymouth_WeaverCustomsCudaTorcReward_2016"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Pontiac_FieroF9_1986"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Pontiac_FieroF9_1986"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Pontiac_FieroF9_1986"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Pontiac_FieroF9_1986"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Pontiac_FieroF9_1986"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Pontiac_FieroF9_1986"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Pontiac_FieroF9_1986"
     },
     10,
     {
@@ -13863,6 +14997,48 @@
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Porsche_RWB993Rotana_1993"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_TaycanTurboSReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_TaycanTurboSReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_TaycanTurboSReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_TaycanTurboSReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_TaycanTurboSReward_2021"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_TaycanTurboSReward_2021"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_TaycanTurboSReward_2021"
     },
     10,
     {
