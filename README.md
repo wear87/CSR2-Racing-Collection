@@ -6,6 +6,15 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
+**2022-03-29：**
+* Release 3.8.0 new car <br>
+* Update the file of all fusion parts till V3.8.0 <br>
+* Update the file of all stage 6 parts till V3.8.0 <br>
+* Version list is updated till v3.8.0 <br>
+* V3.6.0, V3.6.2, V3.7.0, V3.7.2 all are removed and merged in the Cars folder <br>
+* Update msou for Maxed Porsche Taycan Cars <br>
+* [] brackets added in universal fusion parts <br>
+
 **2022-03-22：**
 * Release 3.7.2 OTA new car. <br>
 * Open access to version 3.7.0. <br>
