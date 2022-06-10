@@ -16886,43 +16886,43 @@
 	{
       "esnn": 0,
       "esut": "TRANSMISSION",
-      "esdb": "Lamborghini_TerzoMillennio_201"
+      "esdb": "Lamborghini_TerzoMillennio_2017"
     },
     10,
     {
       "esnn": 0,
       "esut": "ENGINE",
-      "esdb": "Lamborghini_TerzoMillennio_201"
+      "esdb": "Lamborghini_TerzoMillennio_2017"
     },
     10,
     {
       "esnn": 0,
       "esut": "INTAKE",
-      "esdb": "Lamborghini_TerzoMillennio_201"
+      "esdb": "Lamborghini_TerzoMillennio_2017"
     },
     10,
     {
       "esnn": 0,
       "esut": "BODY",
-      "esdb": "Lamborghini_TerzoMillennio_201"
+      "esdb": "Lamborghini_TerzoMillennio_2017"
     },
     10,
     {
       "esnn": 0,
       "esut": "NITROUS",
-      "esdb": "Lamborghini_TerzoMillennio_201"
+      "esdb": "Lamborghini_TerzoMillennio_2017"
     },
     10,
     {
       "esnn": 0,
       "esut": "TYRES",
-      "esdb": "Lamborghini_TerzoMillennio_201"
+      "esdb": "Lamborghini_TerzoMillennio_2017"
     },
     10,
 	{
       "esnn": 0,
       "esut": "TURBO",
-      "esdb": "Lamborghini_TerzoMillennio_201"
+      "esdb": "Lamborghini_TerzoMillennio_2017"
     },
     10,
 	{
