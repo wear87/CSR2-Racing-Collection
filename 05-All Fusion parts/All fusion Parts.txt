@@ -50361,5 +50361,754 @@
         "erpm": 0
       }
     },
+    123,
+	{
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_eng2",
+        "ulid": "TEXT_UPGRADE_ENGINE03",
+        "upty": "ENGINE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.005,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 7.205
+          },
+          {
+            "kfti": 1300.0,
+            "kfva": 8.316
+          },
+          {
+            "kfti": 1600.0,
+            "kfva": 9.172
+          },
+          {
+            "kfti": 2000.0,
+            "kfva": 9.824
+          },
+          {
+            "kfti": 2450.0,
+            "kfva": 10.478
+          },
+          {
+            "kfti": 3050.0,
+            "kfva": 10.952
+          },
+          {
+            "kfti": 3900.0,
+            "kfva": 11.409
+          },
+          {
+            "kfti": 5250.0,
+            "kfva": 11.616
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_eng1",
+        "ulid": "TEXT_UPGRADE_ENGINE02",
+        "upty": "ENGINE",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 4.036
+          },
+          {
+            "kfti": 1400.0,
+            "kfva": 5.253
+          },
+          {
+            "kfti": 1750.0,
+            "kfva": 5.898
+          },
+          {
+            "kfti": 2500.0,
+            "kfva": 6.581
+          },
+          {
+            "kfti": 3600.0,
+            "kfva": 6.6
+          },
+          {
+            "kfti": 4600.0,
+            "kfva": 6.417
+          },
+          {
+            "kfti": 5750.0,
+            "kfva": 6.062
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_eng0",
+        "ulid": "TEXT_UPGRADE_ENGINE01",
+        "upty": "ENGINE",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.01,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 9.973
+          },
+          {
+            "kfti": 1150.0,
+            "kfva": 12.149
+          },
+          {
+            "kfti": 1450.0,
+            "kfva": 13.96
+          },
+          {
+            "kfti": 1700.0,
+            "kfva": 15.415
+          },
+          {
+            "kfti": 2150.0,
+            "kfva": 16.681
+          },
+          {
+            "kfti": 2700.0,
+            "kfva": 17.397
+          },
+          {
+            "kfti": 3200.0,
+            "kfva": 17.665
+          },
+          {
+            "kfti": 3900.0,
+            "kfva": 17.842
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tur2",
+        "ulid": "TEXT_UPGRADE_TURBO03",
+        "upty": "TURBO",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 1.977
+          },
+          {
+            "kfti": 2000.0,
+            "kfva": 1.981
+          },
+          {
+            "kfti": 2002.0,
+            "kfva": 7.772
+          },
+          {
+            "kfti": 2500.0,
+            "kfva": 10.494
+          },
+          {
+            "kfti": 3500.0,
+            "kfva": 12.06
+          },
+          {
+            "kfti": 5150.0,
+            "kfva": 12.086
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tur1",
+        "ulid": "TEXT_UPGRADE_TURBO02",
+        "upty": "TURBO",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 0.321
+          },
+          {
+            "kfti": 2250.0,
+            "kfva": 0.365
+          },
+          {
+            "kfti": 2252.25,
+            "kfva": 3.693
+          },
+          {
+            "kfti": 2900.0,
+            "kfva": 6.537
+          },
+          {
+            "kfti": 3600.0,
+            "kfva": 8.849
+          },
+          {
+            "kfti": 4400.0,
+            "kfva": 9.359
+          },
+          {
+            "kfti": 5350.0,
+            "kfva": 9.731
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tur0",
+        "ulid": "TEXT_UPGRADE_TURBO01",
+        "upty": "TURBO",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.04,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 0.559
+          },
+          {
+            "kfti": 2249.998,
+            "kfva": 0.581
+          },
+          {
+            "kfti": 2252.248,
+            "kfva": 6.025
+          },
+          {
+            "kfti": 3100.0,
+            "kfva": 9.255
+          },
+          {
+            "kfti": 4550.0,
+            "kfva": 10.037
+          },
+          {
+            "kfti": 5750.0,
+            "kfva": 9.66
+          },
+          {
+            "kfti": 6550.0,
+            "kfva": 7.482
+          },
+          {
+            "kfti": 7250.0,
+            "kfva": 5.497
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_int2",
+        "ulid": "TEXT_UPGRADE_INTAKE03",
+        "upty": "INTAKE",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.01,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": -1.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 3.426
+          },
+          {
+            "kfti": 1350.0,
+            "kfva": 4.498
+          },
+          {
+            "kfti": 2750.0,
+            "kfva": 5.775
+          },
+          {
+            "kfti": 4800.0,
+            "kfva": 5.705
+          },
+          {
+            "kfti": 6400.0,
+            "kfva": 5.44
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_int1",
+        "ulid": "TEXT_UPGRADE_INTAKE02",
+        "upty": "INTAKE",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.01,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": -1.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 2.823
+          },
+          {
+            "kfti": 1250.0,
+            "kfva": 3.726
+          },
+          {
+            "kfti": 1450.0,
+            "kfva": 4.238
+          },
+          {
+            "kfti": 1900.0,
+            "kfva": 4.678
+          },
+          {
+            "kfti": 2700.0,
+            "kfva": 4.907
+          },
+          {
+            "kfti": 4100.0,
+            "kfva": 4.803
+          },
+          {
+            "kfti": 6050.0,
+            "kfva": 4.62
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_int0",
+        "ulid": "TEXT_UPGRADE_INTAKE01",
+        "upty": "INTAKE",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0,
+        "adtc": [
+          {
+            "kfti": 1000.0,
+            "kfva": 2.017
+          },
+          {
+            "kfti": 1450.0,
+            "kfva": 3.111
+          },
+          {
+            "kfti": 2100.0,
+            "kfva": 3.558
+          },
+          {
+            "kfti": 2750.0,
+            "kfva": 3.722
+          },
+          {
+            "kfti": 3850.0,
+            "kfva": 3.696
+          },
+          {
+            "kfti": 5750.0,
+            "kfva": 3.607
+          }
+        ]
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_nit1",
+        "ulid": "TEXT_UPGRADE_NITROUS02",
+        "upty": "NITROUS",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 1.0,
+        "nhpb": 25.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_nit0",
+        "ulid": "TEXT_UPGRADE_NITROUS01",
+        "upty": "NITROUS",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 2.0,
+        "nhpb": 25.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_nit2",
+        "ulid": "TEXT_UPGRADE_NITROUS03",
+        "upty": "NITROUS",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 25.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_bod2",
+        "ulid": "TEXT_UPGRADE_BODY03",
+        "upty": "BODY",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 650.0,
+        "drcd": 0.0,
+        "wedi": -11.34,
+        "grdi": -12.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_bod1",
+        "ulid": "TEXT_UPGRADE_BODY02",
+        "upty": "BODY",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": -13.608,
+        "grdi": -15.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_bod0",
+        "ulid": "TEXT_UPGRADE_BODY01",
+        "upty": "BODY",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.02,
+        "wedi": -13.608,
+        "grdi": -15.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tir2",
+        "ulid": "TEXT_UPGRADE_TYRES03",
+        "upty": "TYRES",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": 0.0,
+        "grdi": 125.0,
+        "gstd": 0.0,
+        "trlp": -0.05,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tir1",
+        "ulid": "TEXT_UPGRADE_TYRES02",
+        "upty": "TYRES",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.01,
+        "wedi": 0.0,
+        "grdi": 125.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tir0",
+        "ulid": "TEXT_UPGRADE_TYRES01",
+        "upty": "TYRES",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": -0.02,
+        "wedi": 0.0,
+        "grdi": 94.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tra2",
+        "ulid": "TEXT_UPGRADE_TRANS03",
+        "upty": "TRANSMISSION",
+        "uplv": 2,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.03,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": -0.05,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tra1",
+        "ulid": "TEXT_UPGRADE_TRANS02",
+        "upty": "TRANSMISSION",
+        "uplv": 1,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.0,
+        "wedi": -13.608,
+        "grdi": 0.0,
+        "gstd": 0.0,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
+    123,
+    {
+      "upma": "id_ram",
+      "upnn": 0,
+      "upfb": true,
+      "upcu": {
+        "adid": "RAM_1500TRX_2021_tra0",
+        "ulid": "TEXT_UPGRADE_TRANS01",
+        "upty": "TRANSMISSION",
+        "uplv": 0,
+        "tcmu": 0.0,
+        "errd": 0.0,
+        "drcd": 0.02,
+        "wedi": 0.0,
+        "grdi": 0.0,
+        "gstd": -0.05,
+        "trlp": 0.0,
+        "niti": 0.0,
+        "nhpb": 0.0,
+        "isnc": false,
+        "erpm": 0
+      }
+    },
     123
   ],
