@@ -17806,5 +17806,89 @@
       "esut": "TURBO",
       "esdb": "Pagani_C10_2023"
     },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Audi_RSetronGTReward_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Audi_RSetronGTReward_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Audi_RSetronGTReward_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Audi_RSetronGTReward_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Audi_RSetronGTReward_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Audi_RSetronGTReward_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Audi_RSetronGTReward_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Toyota_CamryNASCAR_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Toyota_CamryNASCAR_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Toyota_CamryNASCAR_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Toyota_CamryNASCAR_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Toyota_CamryNASCAR_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Toyota_CamryNASCAR_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Toyota_CamryNASCAR_2022"
+    },
     10
   ]
