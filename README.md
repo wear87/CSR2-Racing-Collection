@@ -6,6 +6,13 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
+**2022-12-11：**
+* Release V4.3.0 OTA new cars <br>
+* Update the file of All Stage 6 parts till V4.3.0 OTA <br>
+* Version list is updated till V4.3.0 OTA <br>
+* V4.2.0 OTA1, V4.3.0 all are removed and merged in the cars folder <br>
+
+
 **2022-03-29：**
 * Release 3.8.0 new car <br>
 * Update the file of all fusion parts till V3.8.0 <br>
