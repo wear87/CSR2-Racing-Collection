@@ -10,8 +10,8 @@ To be the first to get project updates, please join our Discord channel at →  
 
 * Release V4.5.0 new cars
 * Update the file of All Stage 6 parts till V4.5.0 
-** Mclaren 600LT & 600LT Spider added as separate stage 6 parts 
-** Maserati MC20 Stage 6 parts removed 
+* Mclaren 600LT & 600LT Spider added as separate stage 6 parts 
+* Maserati MC20 Stage 6 parts removed 
 * Update the file of Universal Fusion (Non-Elite Cars)
 * Version list is updated till V4.5.0 OTA2
 * V4.4.0 removed and merged in the cars folder
