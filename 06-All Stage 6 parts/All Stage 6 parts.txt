@@ -10711,48 +10711,6 @@
     10,
     {
       "esnn": 0,
-      "esut": "ENGINE",
-      "esdb": "McLaren_600LTReward_2019"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "TURBO",
-      "esdb": "McLaren_600LTReward_2019"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "INTAKE",
-      "esdb": "McLaren_600LTReward_2019"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "NITROUS",
-      "esdb": "McLaren_600LTReward_2019"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "BODY",
-      "esdb": "McLaren_600LTReward_2019"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "TYRES",
-      "esdb": "McLaren_600LTReward_2019"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "TRANSMISSION",
-      "esdb": "McLaren_600LTReward_2019"
-    },
-    10,
-    {
-      "esnn": 0,
       "esut": "NITROUS",
       "esdb": "McLaren_675LTSpiderReward_2016"
     },
@@ -18608,48 +18566,6 @@
 	{
       "esnn": 0,
       "esut": "TRANSMISSION",
-      "esdb": "Maserati_MC20_2021"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "ENGINE",
-      "esdb": "Maserati_MC20_2021"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "INTAKE",
-      "esdb": "Maserati_MC20_2021"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "BODY",
-      "esdb": "Maserati_MC20_2021"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "NITROUS",
-      "esdb": "Maserati_MC20_2021"
-    },
-    10,
-    {
-      "esnn": 0,
-      "esut": "TYRES",
-      "esdb": "Maserati_MC20_2021"
-    },
-    10,
-	{
-      "esnn": 0,
-      "esut": "TURBO",
-      "esdb": "Maserati_MC20_2021"
-    },
-    10,
-	{
-      "esnn": 0,
-      "esut": "TRANSMISSION",
       "esdb": "Pininfarina_Battista_2020"
     },
     10,
@@ -18729,6 +18645,258 @@
       "esnn": 0,
       "esut": "TURBO",
       "esdb": "Volkswagen_IDR_2019"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Hyundai_ElantraNRewardRecycled_2022"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "McLaren_SolusGT_2023"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_KRCJapanGTRR35RewardRecycled_2017"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Noble_M500_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Noble_M500_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Noble_M500_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Noble_M500_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Noble_M500_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Noble_M500_2022"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Noble_M500_2022"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "McLaren_600LTRewardRecycled_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "McLaren_600LTRewardRecycled_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "McLaren_600LTRewardRecycled_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "McLaren_600LTRewardRecycled_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "McLaren_600LTRewardRecycled_2019"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "McLaren_600LTRewardRecycled_2019"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "McLaren_600LTRewardRecycled_2019"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "McLaren_600LTSpiderRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "McLaren_600LTSpiderRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "McLaren_600LTSpiderRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "McLaren_600LTSpiderRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "McLaren_600LTSpiderRewardRecycled_2020"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "McLaren_600LTSpiderRewardRecycled_2020"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "McLaren_600LTSpiderRewardRecycled_2020"
     },
     10
   ]
