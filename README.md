@@ -6,6 +6,16 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
+**2023-05-29：**
+
+* Release V4.5.0 new cars
+* Update the file of All Stage 6 parts till V4.5.0 
+** Mclaren 600LT & 600LT Spider added as separate stage 6 parts 
+** Maserati MC20 Stage 6 parts removed 
+* Update the file of Universal Fusion (Non-Elite Cars)
+* Version list is updated till V4.5.0 OTA2
+* V4.4.0 removed and merged in the cars folder
+
 **2023-02-08：**
 
 * Release V4.3.0 OTA2 new cars
