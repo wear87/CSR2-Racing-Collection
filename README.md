@@ -6,7 +6,7 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
-**2023-07-13: **
+**2023-07-13:**
 
 Release V4.5.1 OTA1 new cars
 Update the file of All Stage 6 parts till V4.5.1 OTA1
