@@ -8,6 +8,15 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **2023-07-13:**
 
+* Release V4.7.0 new cars
+* Update the file of All Stage 6 parts till V4.7.0
+* Update the folder of Elite Fusion for New Elite Tuner Car
+* Version list is updated till V4.7.0
+* V4.5.1 OTA1 removed and merged in the cars folder
+  
+
+**2023-07-13:**
+
 * Release V4.5.1 OTA1 new cars
 * Update the file of All Stage 6 parts till V4.5.1 OTA1
 * Update the file of All fusion parts ( New fusions added McMurtry)
