@@ -7,16 +7,13 @@ To be the first to get project updates, please join our Discord channel at →  
 **Repository Update Log:**<br>
 
 **2023-08-23:**
-
 * Release V4.7.0 new cars
 * Update the file of All Stage 6 parts till V4.7.0
 * Update the folder of Elite Fusion for New Elite Tuner Car
 * Version list is updated till V4.7.0
 * V4.5.1 OTA1 removed and merged in the cars folder
-  
 
 **2023-07-13:**
-
 * Release V4.5.1 OTA1 new cars
 * Update the file of All Stage 6 parts till V4.5.1 OTA1
 * Update the file of All fusion parts ( New fusions added McMurtry)
@@ -26,7 +23,6 @@ To be the first to get project updates, please join our Discord channel at →  
 * V4.5.0 removed and merged in the cars folder
 
 **2023-05-29：**
-
 * Release V4.5.0 new cars
 * Update the file of All Stage 6 parts till V4.5.0 
 * Mclaren 600LT & 600LT Spider added as separate stage 6 parts 
@@ -36,7 +32,6 @@ To be the first to get project updates, please join our Discord channel at →  
 * V4.4.0 removed and merged in the cars folder
 
 **2023-02-08：**
-
 * Release V4.3.0 OTA2 new cars
 * Update the file of All Stage 6 parts till V4.3.0 OTA2
 * Update the file of Fusion parts till V4.3.0 OTA2
@@ -48,7 +43,6 @@ To be the first to get project updates, please join our Discord channel at →  
 * Update the file of All Stage 6 parts till V4.3.0 OTA <br>
 * Version list is updated till V4.3.0 OTA <br>
 * V4.2.0 OTA1, V4.3.0 all are removed and merged in the cars folder <br>
-
 
 **2022-03-29：**
 * Release 3.8.0 new car <br>
@@ -93,7 +87,7 @@ To be the first to get project updates, please join our Discord channel at →  
 2. Paid purchase for new versions of cars only, $20 per version, includes all new cars. <br>
 3. Please leave a message with your email address when making payment, I will reply promptly with the Unpacking password. <br>
 4. Payment link:<br>
-[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal-blue3.png)](https://www.paypal.me/wear87)
+[![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/paypal-blue3.png)](https://www.paypal.me/farhanzakikhan)
 5. If you have any problems, questions, feedback issues with the code, please contact Discord: wear87#4510 or https://discord.gg/XVZbNan <br>
 
 Request to link your database to this project:<br>
