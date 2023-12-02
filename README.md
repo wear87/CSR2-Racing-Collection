@@ -14,6 +14,15 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
+## Update 4.8.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V4.8.0.png)
+**2023-10-30:**
+* Release V4.8.0 new cars
+* Update the file of All Stage 6 parts till V4.8.0
+* Update the file of All Fusion parts with Buick Fusions 
+* Version list is updated till V4.8.0
+* V4.7.0 removed and merged in the cars folder
+****
 ## Update 4.7.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V4.7.0.png)
 **2023-08-23:**
