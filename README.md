@@ -14,6 +14,14 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
+## Update 4.8.2 OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V4.8.2%20OTA1.png)
+**2023-12-09:**
+* Release V4.8.2 OTA1 new cars
+* Update the file of All Stage 6 parts till V4.8.2 OTA1 
+* Version list is updated till V4.8.2 OTA1 
+* V4.8.0 removed and merged in the cars folder
+****
 ## Update 4.8.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V4.8.0.png)
 **2023-10-30:**
