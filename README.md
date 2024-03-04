@@ -16,7 +16,7 @@ To be the first to get project updates, please join our Discord channel at →  
 
 ## Update 4.9.0 OTA2
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V4.9.0%20OTA2.png)
-**2024-02-10:**
+**2024-03-01:**
 * Release V4.9.0 OTA2 new cars
 * Update the file of All Stage 6 parts till V4.9.0 OTA2
 * Version list is updated till V4.9.0 OTA2 
