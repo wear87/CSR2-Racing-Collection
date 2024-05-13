@@ -14,6 +14,21 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 
+## Update 5.0.0 OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.0.0%20%20OTA2.png)
+**2024-05-13:**
+* Release V5.0.0 OTA1 new cars
+* Update the file of All Stage 6 parts till V5.0.0 OTA2
+* Version list is updated till V5.0.0 OTA2 
+****
+## Update 5.0.0 OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.0.0%20%20OTA1.png)
+**2024-05-13:**
+* Release V5.0.0 OTA1 new cars
+* Update the file of All Stage 6 parts till V5.0.0 OTA1
+* Version list is updated till V5.0.0 OTA1 
+* V4.9.0 OTA1 & OTA2 removed and merged in the cars folder
+****
 ## Update 4.9.0 OTA2
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V4.9.0%20OTA2.png)
 **2024-03-01:**
