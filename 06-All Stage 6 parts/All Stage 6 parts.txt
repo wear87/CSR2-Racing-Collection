@@ -22006,5 +22006,215 @@
       "esut": "TURBO",
       "esdb": "Lamborghini_LB634_2024"
     },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_HSCustomsChevelle_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_HSCustomsChevelle_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_HSCustomsChevelle_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_HSCustomsChevelle_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_HSCustomsChevelle_1968"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_HSCustomsChevelle_1968"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_HSCustomsChevelle_1968"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_WeaverCustoms3100_1949"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_WeaverCustoms3100_1949"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_WeaverCustoms3100_1949"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_WeaverCustoms3100_1949"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_WeaverCustoms3100_1949"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_WeaverCustoms3100_1949"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_WeaverCustoms3100_1949"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Lamborghini_LBCountachLPRewardRecycled_1988"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Lamborghini_LBCountachLPRewardRecycled_1988"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Lamborghini_LBCountachLPRewardRecycled_1988"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Lamborghini_LBCountachLPRewardRecycled_1988"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Lamborghini_LBCountachLPRewardRecycled_1988"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Lamborghini_LBCountachLPRewardRecycled_1988"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Lamborghini_LBCountachLPRewardRecycled_1988"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Ford_RuffianMustang_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Ford_RuffianMustang_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Ford_RuffianMustang_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Ford_RuffianMustang_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Ford_RuffianMustang_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Ford_RuffianMustang_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Ford_RuffianMustang_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Nissan_ZTNR_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Nissan_ZTNR_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Nissan_ZTNR_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Nissan_ZTNR_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Nissan_ZTNR_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Nissan_ZTNR_2023"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Nissan_ZTNR_2023"
+    },
     10
   ]
