@@ -23896,5 +23896,173 @@
       "esut": "TURBO",
       "esdb": "Shelby_CobraDaytonaLP_1964"
     },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "AstonMartin_Vanquish_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "AstonMartin_Vanquish_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "AstonMartin_Vanquish_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "AstonMartin_Vanquish_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "AstonMartin_Vanquish_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "AstonMartin_Vanquish_2025"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "AstonMartin_Vanquish_2025"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_911GT3R992_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_911GT3R992_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_911GT3R992_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_911GT3R992_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_911GT3R992_2022"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_911GT3R992_2022"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_911GT3R992_2022"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Pagani_HuayraREvo_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Pagani_HuayraREvo_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Pagani_HuayraREvo_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Pagani_HuayraREvo_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Pagani_HuayraREvo_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Pagani_HuayraREvo_2024"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Pagani_HuayraREvo_2024"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "MercedesAMG_CLAEVRewardRecycled_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "MercedesAMG_CLAEVRewardRecycled_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "MercedesAMG_CLAEVRewardRecycled_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "MercedesAMG_CLAEVRewardRecycled_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "MercedesAMG_CLAEVRewardRecycled_2025"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "MercedesAMG_CLAEVRewardRecycled_2025"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "MercedesAMG_CLAEVRewardRecycled_2025"
+    },
     10
   ]
