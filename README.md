@@ -22,6 +22,27 @@ To be the first to get project updates, please join our Discord channel at →  
 ## Update 5.7.0
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.7.0.png)
 ****
+## Update 5.6.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.6.0%20OTA2.png)
+****
+## Update 5.6.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.6.0%20OTA1.png)
+****
+## Update 5.5.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.5.0%20OTA2.png)
+****
+## Update 5.5.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.5.0%20OTA1.png)
+****
+## Update 5.4.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.4.0%20OTA2.png)
+****
+## Update 5.4.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.4.0%20OTA1.png)
+****
+## Update 5.3.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.3.0%20OTA1.png)
+****
 ## Update 5.2.1 → OTA3
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.2.1%20OTA3.png)
 ****
