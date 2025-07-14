@@ -24442,5 +24442,215 @@
       "esut": "TURBO",
       "esdb": "Ferrari_SF90XXSpiderRewardRecycled_2024"
     },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "AstonMartin_DBR22_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "AstonMartin_DBR22_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "AstonMartin_DBR22_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "AstonMartin_DBR22_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "AstonMartin_DBR22_2023"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "AstonMartin_DBR22_2023"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "AstonMartin_DBR22_2023"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "DeTomaso_PanteraGT5S_1984"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "DeTomaso_PanteraGT5S_1984"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "DeTomaso_PanteraGT5S_1984"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "DeTomaso_PanteraGT5S_1984"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "DeTomaso_PanteraGT5S_1984"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "DeTomaso_PanteraGT5S_1984"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "DeTomaso_PanteraGT5S_1984"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Mazda_RX7F2_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Mazda_RX7F2_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Mazda_RX7F2_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Mazda_RX7F2_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Mazda_RX7F2_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Mazda_RX7F2_1993"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Mazda_RX7F2_1993"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_911TurboFlachbauC_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_911TurboFlachbauC_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_911TurboFlachbauC_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_911TurboFlachbauC_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_911TurboFlachbauC_1987"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_911TurboFlachbauC_1987"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_911TurboFlachbauC_1987"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_911STRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_911STRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_911STRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_911STRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_911STRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_911STRewardRecycled_2024"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_911STRewardRecycled_2024"
+    },
     10
   ]
