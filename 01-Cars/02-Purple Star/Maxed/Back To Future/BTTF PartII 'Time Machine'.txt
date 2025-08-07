@@ -1,0 +1,597 @@
+{
+      "unid": 6925,
+      "crdb": "BTTF_TimeMachine2_2015",
+      "awar": false,
+      "grsp": [
+        3.364,
+        2.059,
+        1.381,
+        1.057,
+        0.75
+      ],
+      "fidr": 2.9,
+      "nlpr": 0.5,
+      "tafr": 0.5,
+      "titp": 0.5,
+      "trld": 0.0,
+      "tssp": 0.5,
+      "tssr": 0.5,
+      "ttup": 0.5,
+      "ttpp": 0.5,
+      "appi": 0,
+      "orpi": 0,
+      "apiid": 1808,
+      "oriid": 1808,
+      "apcid": 0,
+      "orcid": 0,
+      "apcns": 0,
+      "appns": 0,
+      "opcns": 0,
+      "oppns": 0,
+      "aplid": 1292,
+      "orlid": 1292,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apln": "",
+      "apcn": [
+        "BTTF_TimeMachine2_2015_Wheel1A_3D"
+      ],
+      "opcn": "BTTF_TimeMachine2_2015_Wheel1A_3D",
+      "bqmt": 0.0,
+      "bhmt": 0.0,
+      "ditr": 0.0,
+      "rcat": 0,
+      "rwon": 0,
+      "msou": 5979000,
+      "nuub": 35,
+      "ccna": 0,
+      "upst": [
+      {
+        "lvlo": 6,
+        "lvlf": 6,
+        "lvls": [
+          {
+            "ulpf": true
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              2,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              1,
+              2,
+              3,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              2,
+              2,
+              3,
+              3
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              3,
+              3,
+              3,
+              3,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "lvlo": 6,
+        "lvlf": 6,
+        "lvls": [
+          {
+            "ulpf": true
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              1,
+              2,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              3,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              2,
+              3,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              1,
+              2,
+              2,
+              3
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              2,
+              3,
+              3,
+              3
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              3,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "lvlo": 6,
+        "lvlf": 6,
+        "lvls": [
+          {
+            "ulpf": true
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              1,
+              2,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              3,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              1,
+              2,
+              3,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              2,
+              3,
+              3
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              2,
+              3,
+              3,
+              3
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              3,
+              0,
+              0,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "lvlo": 6,
+        "lvlf": 6,
+        "lvls": [
+          {
+            "ulpf": true
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              3,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              3,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              3,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              2,
+              3,
+              3,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "lvlo": 6,
+        "lvlf": 6,
+        "lvls": [
+          {
+            "ulpf": true
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              2,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              3,
+              3,
+              3
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              2,
+              3,
+              3,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "lvlo": 6,
+        "lvlf": 6,
+        "lvls": [
+          {
+            "ulpf": true
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              3,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              2,
+              3,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              2,
+              3,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              3,
+              3,
+              3,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "lvlo": 6,
+        "lvlf": 6,
+        "lvls": [
+          {
+            "ulpf": true
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              2,
+              3,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              1,
+              2,
+              2,
+              3,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              3,
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "ulpf": true,
+            "fsg": [
+              2,
+              3,
+              3,
+              3,
+              3
+            ]
+          }
+        ]
+      }
+    ],
+      "fpin": 3,
+      "rpst": [
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        },
+        {
+          "rvlo": 0,
+          "rvlf": 0
+        }
+      ],
+      "tscs": {
+        "BODYKIT": 0,
+        "WHEELS": 0,
+        "WING": 0,
+        "BOOST_COLOR": 0,
+        "HOOD": 0,
+        "RIMS": 0,
+        "TIRE": 0
+      },
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
+      "cppi": 603,
+      "cepi": 0,
+      "tdut": 16.07,
+      "tdtt": 16.07,
+      "ttqm": 10.186,
+      "tthm": 16.07,
+      "tt60": 2.721,
+      "tt1h": 5.301,
+      "spqm": 141.897,
+      "sphm": 161.501,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "txt": "",
+        "cpf": false
+      },
+      "esup": true,
+      "elcl": 0,
+      "gacp": false,
+      "paid": 2346,
+      "inid": 1808,
+      "caid": 0,
+      "lzsid": 0,
+      "livid": 1292,
+      "whbn": "Wheel1A_3D",
+      "tlad": 0.0,
+      "need": false,
+      "cmlv": 0,
+      "isra": false
+    }
