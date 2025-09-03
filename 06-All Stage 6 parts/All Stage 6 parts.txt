@@ -24904,5 +24904,173 @@
       "esut": "TURBO",
       "esdb": "Lexus_LC500ConvertibleRewardRecycled_2017"
     },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_BlazinRodsChevelle_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_BlazinRodsChevelle_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_BlazinRodsChevelle_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_BlazinRodsChevelle_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_BlazinRodsChevelle_1970"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_BlazinRodsChevelle_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_BlazinRodsChevelle_1970"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Chevrolet_GarretCamaro_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Chevrolet_GarretCamaro_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Chevrolet_GarretCamaro_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Chevrolet_GarretCamaro_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Chevrolet_GarretCamaro_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Chevrolet_GarretCamaro_1972"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Chevrolet_GarretCamaro_1972"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Honda_CivicEJ1F1_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Honda_CivicEJ1F1_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Honda_CivicEJ1F1_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Honda_CivicEJ1F1_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Honda_CivicEJ1F1_1993"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Honda_CivicEJ1F1_1993"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Honda_CivicEJ1F1_1993"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Plymouth_FuryJimBelvedere_1958"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Plymouth_FuryJimBelvedere_1958"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Plymouth_FuryJimBelvedere_1958"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Plymouth_FuryJimBelvedere_1958"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Plymouth_FuryJimBelvedere_1958"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Plymouth_FuryJimBelvedere_1958"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Plymouth_FuryJimBelvedere_1958"
+    },
     10
   ]

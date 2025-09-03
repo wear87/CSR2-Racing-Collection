@@ -1,0 +1,214 @@
+{
+      "unid": 7056,
+      "crdb": "Porsche_911CarreraRS27LPClassic_1973",
+      "awar": false,
+      "grsp": [
+        3.18,
+        1.83,
+        1.26,
+        0.96,
+        0.76
+      ],
+      "fidr": 3.48,
+      "nlpr": 0.5,
+      "tafr": 0.5,
+      "titp": 0.5,
+      "trld": 0.0,
+      "tssp": 0.5,
+      "tssr": 0.5,
+      "ttup": 0.5,
+      "ttpp": 0.5,
+      "appi": 0,
+      "orpi": 0,
+      "apiid": 626,
+      "oriid": 626,
+      "apcid": 9,
+      "orcid": 9,
+      "apcns": 0,
+      "appns": 0,
+      "opcns": 0,
+      "oppns": 0,
+      "aplid": 1321,
+      "orlid": 1321,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apln": "",
+      "apcn": [
+        "Porsche_911CarreraRS27LPClassic_1973_Wheel2A_3D"
+      ],
+      "opcn": "Porsche_911CarreraRS27LPClassic_1973_Wheel1A_3D",
+      "bqmt": 0.0,
+      "bhmt": 0.0,
+      "ditr": 0.0,
+      "rcat": 0,
+      "rwon": 0,
+      "msou": 0,
+      "nuub": 0,
+      "ccna": 0,
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 2,
+          "rvlf": 2
+        }
+      ],
+      "tscs": {
+        "BODYKIT": 0,
+        "WHEELS": 0,
+        "WING": 0,
+        "BOOST_COLOR": 0,
+        "HOOD": 0,
+        "RIMS": 0,
+        "TIRE": 0
+      },
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
+      "cppi": 603,
+      "cepi": 0,
+      "tdut": 16.053,
+      "tdtt": 16.053,
+      "ttqm": 10.449,
+      "tthm": 16.053,
+      "tt60": 3.438,
+      "tt1h": 5.747,
+      "spqm": 148.554,
+      "sphm": 171.282,
+      "ctie": "TIER_5",
+      "csrc": "ShopCash",
+      "nupl": {
+        "txt": "",
+        "cpf": false
+      },
+      "esup": false,
+      "elcl": 0,
+      "gacp": false,
+      "whbn": "",
+      "tlad": 0.0,
+      "need": false,
+      "cmlv": 0,
+      "isra": false
+    }

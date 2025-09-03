@@ -1,0 +1,213 @@
+{
+      "unid": 7055,
+      "crdb": "Plymouth_SuperbirdLPClassic_1970",
+      "awar": false,
+      "grsp": [
+        2.44,
+        1.6,
+        1.1,
+        0.75
+      ],
+      "fidr": 2.77,
+      "nlpr": 0.5,
+      "tafr": 0.5,
+      "titp": 0.5,
+      "trld": 0.0,
+      "tssp": 0.5,
+      "tssr": 0.5,
+      "ttup": 0.5,
+      "ttpp": 0.5,
+      "appi": 0,
+      "orpi": 0,
+      "apiid": 1090,
+      "oriid": 1090,
+      "apcid": 9,
+      "orcid": 9,
+      "apcns": 0,
+      "appns": 0,
+      "opcns": 0,
+      "oppns": 0,
+      "aplid": 1319,
+      "orlid": 1319,
+      "aplzsid": 15,
+      "orlzsid": 15,
+      "apln": "",
+      "apcn": [
+        "Plymouth_SuperbirdLPClassic_1970_Wheel2A_3D"
+      ],
+      "opcn": "Plymouth_SuperbirdLPClassic_1970_Wheel1A_3D",
+      "bqmt": 0.0,
+      "bhmt": 0.0,
+      "ditr": 0.0,
+      "rcat": 0,
+      "rwon": 0,
+      "msou": 0,
+      "nuub": 0,
+      "ccna": 0,
+      "upst": [
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvlo": 0,
+          "lvlf": 0,
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "rpst": [
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 1,
+          "rvlf": 1
+        },
+        {
+          "rvlo": 2,
+          "rvlf": 2
+        }
+      ],
+      "tscs": {
+        "BODYKIT": 0,
+        "WHEELS": 0,
+        "WING": 0,
+        "BOOST_COLOR": 0,
+        "HOOD": 0,
+        "RIMS": 0,
+        "TIRE": 0
+      },
+      "fpul": 0,
+      "rsup": 0,
+      "rpbb": 0,
+      "rncu": false,
+      "fcu": false,
+      "pncu": false,
+      "cncu": false,
+      "cppi": 603,
+      "cepi": 0,
+      "tdut": 16.065,
+      "tdtt": 16.065,
+      "ttqm": 10.454,
+      "tthm": 16.065,
+      "tt60": 3.114,
+      "tt1h": 5.76,
+      "spqm": 146.901,
+      "sphm": 168.988,
+      "ctie": "TIER_5",
+      "csrc": "ShopCash",
+      "nupl": {
+        "txt": "",
+        "cpf": false
+      },
+      "esup": false,
+      "elcl": 0,
+      "gacp": false,
+      "whbn": "",
+      "tlad": 0.0,
+      "need": false,
+      "cmlv": 0,
+      "isra": false
+    }
