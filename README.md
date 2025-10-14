@@ -14,6 +14,9 @@ To be the first to get project updates, please join our Discord channel at →  
 
 **Repository Update Log:**<br>
 ## Update 6.0.1 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.0.2.png)
+****
+## Update 6.0.1 → OTA1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.0.1%20%20OTA1.png)
 ****
 ## Update 5.9.0 → OTA1
@@ -207,6 +210,7 @@ Please reach out to us on Discord and we'll review and grant the permission on a
 Discord Server: https://discord.gg/XVZbNan <br>
 Official Q&A Forum: https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
 Official Development Blog: https://csr-racing.com/
+
 
 
 
