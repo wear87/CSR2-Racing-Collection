@@ -25492,5 +25492,47 @@
       "esut": "TURBO",
       "esdb": "Toyota_GRYarisRewardRecycled_2021"
     },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Datsun_240ZLPClassic_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Datsun_240ZLPClassic_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Datsun_240ZLPClassic_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Datsun_240ZLPClassic_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Datsun_240ZLPClassic_1972"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Datsun_240ZLPClassic_1972"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Datsun_240ZLPClassic_1972"
+    },
     10
   ]

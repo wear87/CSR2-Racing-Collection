@@ -311,6 +311,7 @@ Chevrolet_WeaverCustoms3100_1949
 Chevrolet_ZwygartNova_1967
 Czinger_21C_2021
 Czinger_21CVMax_2023
+Datsun_240ZLPClassic_1972
 DeTomaso_PanteraGT5S_1984
 Dodge_ChallengerMoparDragPak_2021
 Dodge_ChallengerMoparDragPakGold_2021
