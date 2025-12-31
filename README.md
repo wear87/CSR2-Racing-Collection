@@ -13,6 +13,15 @@ To be the first to get project updates, please join our Discord channel at →  
 5. If you have any problems, questions, feedback issues with the code, please contact Discord: williamjames#8510 or https://discord.gg/XVZbNan <br>
 
 **Repository Update Log:**<br>
+## Update 6.2.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.2.0%20OTA1.png)
+****
+## Update 6.1.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.1.0%20OTA2.png)
+****
+## Update 6.1.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.1.0%20OTA1.png)
+****
 ## Update 6.0.1 → OTA1
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.0.2.png)
 ****
@@ -210,6 +219,7 @@ Please reach out to us on Discord and we'll review and grant the permission on a
 Discord Server: https://discord.gg/XVZbNan <br>
 Official Q&A Forum: https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
 Official Development Blog: https://csr-racing.com/
+
 
 
 
