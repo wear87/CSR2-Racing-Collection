@@ -1,0 +1,126 @@
+{
+      "unid": 7408,
+      "crdb": "RAESR_TachyonSpeed_2024",
+      "grsp": [
+        1.0
+      ],
+      "fidr": 4.11,
+      "apiid": 1956,
+      "oriid": 1956,
+      "apcid": 3,
+      "orcid": 3,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "RAESR_TachyonSpeed_2024_Wheel1A_3D"
+      ],
+      "opcn": "RAESR_TachyonSpeed_2024_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.962,
+      "tthm": 16.048,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2562,
+      "inid": 1956,
+      "caid": 3,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

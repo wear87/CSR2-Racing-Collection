@@ -26879,7 +26879,7 @@
       "esdb": "Porsche_911Turbo930LPClassic_1977"
     },
     10,
-		{
+	{
       "esnn": 0,
       "esut": "TRANSMISSION",
       "esdb": "Porsche_911TurboSRewardRecycled_2026"
@@ -27171,6 +27171,384 @@
       "esnn": 0,
       "esut": "TURBO",
       "esdb": "RAESR_TachyonSpeed_2024"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Apollo_S_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Apollo_S_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Apollo_S_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Apollo_S_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Apollo_S_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Apollo_S_2008"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Apollo_S_2008"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "AstonMartin_VantageGT12_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "AstonMartin_VantageGT12_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "AstonMartin_VantageGT12_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "AstonMartin_VantageGT12_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "AstonMartin_VantageGT12_2016"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "AstonMartin_VantageGT12_2016"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "AstonMartin_VantageGT12_2016"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Lamborghini_Reventon_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Lamborghini_Reventon_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Lamborghini_Reventon_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Lamborghini_Reventon_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Lamborghini_Reventon_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Lamborghini_Reventon_2008"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Lamborghini_Reventon_2008"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Porsche_911GT3RS997_2012"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Porsche_911GT3RS997_2012"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Porsche_911GT3RS997_2012"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Porsche_911GT3RS997_2012"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Porsche_911GT3RS997_2012"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Porsche_911GT3RS997_2012"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Porsche_911GT3RS997_2012"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Dodge_ViperACR_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Dodge_ViperACR_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Dodge_ViperACR_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Dodge_ViperACR_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Dodge_ViperACR_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Dodge_ViperACR_2009"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Dodge_ViperACR_2009"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Mazda_RX8TNR_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Mazda_RX8TNR_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Mazda_RX8TNR_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Mazda_RX8TNR_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Mazda_RX8TNR_2008"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Mazda_RX8TNR_2008"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Mazda_RX8TNR_2008"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "SSC_UltimateAeroTT_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "SSC_UltimateAeroTT_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "SSC_UltimateAeroTT_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "SSC_UltimateAeroTT_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "SSC_UltimateAeroTT_2009"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "SSC_UltimateAeroTT_2009"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "SSC_UltimateAeroTT_2009"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "Honda_VarisS2000RewardRecycled_2005"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "Honda_VarisS2000RewardRecycled_2005"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "Honda_VarisS2000RewardRecycled_2005"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "Honda_VarisS2000RewardRecycled_2005"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "Honda_VarisS2000RewardRecycled_2005"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "Honda_VarisS2000RewardRecycled_2005"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "Honda_VarisS2000RewardRecycled_2005"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TRANSMISSION",
+      "esdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "ENGINE",
+      "esdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "INTAKE",
+      "esdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "BODY",
+      "esdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "NITROUS",
+      "esdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024"
+    },
+    10,
+    {
+      "esnn": 0,
+      "esut": "TYRES",
+      "esdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024"
+    },
+    10,
+	{
+      "esnn": 0,
+      "esut": "TURBO",
+      "esdb": "MercedesAMG_CLE53CoupeRewardRecycled_2024"
     },
     10
   ]

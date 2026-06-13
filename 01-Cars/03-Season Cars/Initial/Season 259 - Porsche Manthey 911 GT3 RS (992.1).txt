@@ -1,0 +1,134 @@
+{
+      "unid": 7409,
+      "crdb": "Porsche_Manthey911GT3RSReward_2024",
+      "grsp": [
+        3.75,
+        2.38,
+        1.72,
+        1.34,
+        1.11,
+        0.96,
+        0.84
+      ],
+      "fidr": 3.76,
+      "apiid": 1215,
+      "oriid": 1215,
+      "apcid": 253,
+      "orcid": 253,
+      "aplid": 1395,
+      "orlid": 1395,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Porsche_Manthey911GT3RSReward_2024_Wheel1A_3D"
+      ],
+      "opcn": "Porsche_Manthey911GT3RSReward_2024_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 602,
+      "ttqm": 10.31,
+      "tthm": 16.098,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 718,
+      "inid": 1215,
+      "caid": 253,
+      "lzsid": 9,
+      "livid": 1395,
+      "whbn": "Wheel1A_3D"
+    }

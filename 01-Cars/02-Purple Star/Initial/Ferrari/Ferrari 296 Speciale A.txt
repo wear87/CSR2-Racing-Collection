@@ -1,0 +1,131 @@
+{
+      "unid": 7406,
+      "crdb": "Ferrari_296SpecialeA_2026",
+      "grsp": [
+        5.074,
+        3.324,
+        2.429,
+        1.895,
+        1.511,
+        1.23,
+        0.991,
+        0.706
+      ],
+      "fidr": 4.51,
+      "apiid": 88,
+      "oriid": 88,
+      "apcid": 11,
+      "orcid": 11,
+      "apcn": [
+        "Ferrari_296SpecialeA_2026_Wheel1A_3D"
+      ],
+      "opcn": "Ferrari_296SpecialeA_2026_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.315,
+      "tthm": 16.058,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 183,
+      "inid": 88,
+      "caid": 11,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

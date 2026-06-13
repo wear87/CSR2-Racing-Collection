@@ -1150,6 +1150,14 @@ Apollo_S_2008
 AstonMartin_VantageGT12_2016
 Lamborghini_Reventon_2008
 Porsche_911GT3RS997_2012
+Dodge_ViperACR_2009
+Mazda_RX8TNR_2008
+Shelby_MustangSuperSnakeR_2025
+SSC_UltimateAeroTT_2009
+Honda_VarisS2000Reward_2005
+Honda_VarisS2000RewardRecycled_2005
+MercedesAMG_CLE53CoupeReward_2024
+MercedesAMG_CLE53CoupeRewardRecycled_2024
 
 By.william james
 https://github.com/wear87/CSR2-Racing-Collection

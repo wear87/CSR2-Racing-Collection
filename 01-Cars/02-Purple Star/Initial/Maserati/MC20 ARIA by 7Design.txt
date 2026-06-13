@@ -1,0 +1,133 @@
+{
+      "unid": 7407,
+      "crdb": "Maserati_7DesignMC20VIP_2021",
+      "grsp": [
+        2.905,
+        1.758,
+        1.22,
+        0.878,
+        0.635,
+        0.508,
+        0.397,
+        0.329
+      ],
+      "fidr": 4.8,
+      "apiid": 1922,
+      "oriid": 1922,
+      "apcid": 150,
+      "orcid": 150,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Maserati_7DesignMC20VIP_2021_Wheel1A_3D"
+      ],
+      "opcn": "Maserati_7DesignMC20VIP_2021_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 604,
+      "ttqm": 10.631,
+      "tthm": 16.041,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2053,
+      "inid": 1922,
+      "caid": 150,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

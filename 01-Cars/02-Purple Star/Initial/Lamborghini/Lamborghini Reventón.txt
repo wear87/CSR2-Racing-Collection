@@ -1,0 +1,136 @@
+{
+      "unid": 7438,
+      "crdb": "Lamborghini_Reventon_2008",
+      "grsp": [
+        3.091,
+        2.105,
+        1.565,
+        1.241,
+        1.065,
+        0.939
+      ],
+      "fidr": 2.88,
+      "tafr": 0.0,
+      "titp": 0.0,
+      "tssp": 0.0,
+      "tssr": 0.0,
+      "ttup": 0.0,
+      "apiid": 2035,
+      "oriid": 2035,
+      "apcid": 5,
+      "orcid": 5,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Lamborghini_Reventon_2008_Wheel1A_3D"
+      ],
+      "opcn": "Lamborghini_Reventon_2008_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.083,
+      "tthm": 16.065,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2692,
+      "inid": 2035,
+      "caid": 5,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }
