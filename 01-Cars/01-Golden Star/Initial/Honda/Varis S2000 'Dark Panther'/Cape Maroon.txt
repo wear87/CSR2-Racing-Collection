@@ -1,0 +1,133 @@
+{
+      "unid": 7461,
+      "crdb": "Honda_VarisS2000RewardRecycled_2005",
+      "grsp": [
+        3.133,
+        2.045,
+        1.481,
+        1.161,
+        0.942,
+        0.763
+      ],
+      "fidr": 2.55,
+      "appi": 9,
+      "orpi": 9,
+      "apiid": 1169,
+      "oriid": 1169,
+      "apcid": 117,
+      "orcid": 117,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Honda_VarisS2000RewardRecycled_2005_Wheel1C_3D"
+      ],
+      "opcn": "Honda_VarisS2000RewardRecycled_2005_Wheel1C_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.464,
+      "tthm": 16.048,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2307,
+      "inid": 1169,
+      "caid": 117,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1C_3D"
+    }

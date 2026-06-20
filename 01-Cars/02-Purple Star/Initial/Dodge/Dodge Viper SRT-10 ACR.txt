@@ -1,0 +1,131 @@
+{
+      "unid": 7442,
+      "crdb": "Dodge_ViperACR_2009",
+      "grsp": [
+        2.66,
+        1.82,
+        1.3,
+        1.0,
+        0.74,
+        0.5
+      ],
+      "fidr": 2.99,
+      "apiid": 388,
+      "oriid": 388,
+      "apcid": 3,
+      "orcid": 3,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Dodge_ViperACR_2009_Wheel1A_3D"
+      ],
+      "opcn": "Dodge_ViperACR_2009_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.551,
+      "tthm": 16.051,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2283,
+      "inid": 388,
+      "caid": 3,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

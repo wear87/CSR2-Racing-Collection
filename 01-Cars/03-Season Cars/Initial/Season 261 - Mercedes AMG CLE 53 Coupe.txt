@@ -1,0 +1,134 @@
+{
+      "unid": 7445,
+      "crdb": "MercedesAMG_CLE53CoupeReward_2024",
+      "grsp": [
+        5.35,
+        3.24,
+        2.25,
+        1.63,
+        1.21,
+        1.0,
+        0.86,
+        0.71,
+        0.58
+      ],
+      "fidr": 3.58,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 2027,
+      "oriid": 2027,
+      "apcid": 3,
+      "orcid": 3,
+      "apcn": [
+        "MercedesAMG_CLE53CoupeReward_2024_Wheel1A_3D"
+      ],
+      "opcn": "MercedesAMG_CLE53CoupeReward_2024_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 500,
+      "ttqm": 11.431,
+      "tthm": 18.245,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2407,
+      "inid": 2027,
+      "caid": 3,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }
