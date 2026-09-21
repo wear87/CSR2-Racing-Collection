@@ -1,0 +1,130 @@
+{
+      "unid": 7474,
+      "crdb": "Ford_SpeedShopF100_1956",
+      "grsp": [
+        3.321,
+        2.002,
+        1.37,
+        1.0,
+        0.721
+      ],
+      "fidr": 3.11,
+      "apiid": 2064,
+      "oriid": 2064,
+      "apcid": 380,
+      "orcid": 380,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Ford_SpeedShopF100_1956_Wheel1A_3D"
+      ],
+      "opcn": "Ford_SpeedShopF100_1956_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.36,
+      "tthm": 16.063,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2722,
+      "inid": 2064,
+      "caid": 380,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

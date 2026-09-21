@@ -1,0 +1,135 @@
+{
+      "unid": 7657,
+      "crdb": "Lotus_Emira_2022",
+      "grsp": [
+        3.626,
+        2.188,
+        1.541,
+        1.213,
+        1.0,
+        0.76
+      ],
+      "fidr": 4.1,
+      "appi": 11,
+      "orpi": 11,
+      "apiid": 1386,
+      "oriid": 1386,
+      "apcid": 3,
+      "orcid": 3,
+      "aplid": 1416,
+      "orlid": 1416,
+      "aplzsid": 2,
+      "orlzsid": 2,
+      "apcn": [
+        "Lotus_Emira_2022_Wheel1C_3D"
+      ],
+      "opcn": "Lotus_Emira_2022_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 1,
+      "cppi": 161,
+      "ttqm": 15.389,
+      "tthm": 24.412,
+      "ctie": "TIER_1",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2741,
+      "inid": 1386,
+      "caid": 3,
+      "lzsid": 2,
+      "livid": 1416,
+      "whbn": "Wheel1C_3D"
+    }

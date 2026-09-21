@@ -1,0 +1,131 @@
+{
+      "unid": 7571,
+      "crdb": "Chevrolet_LowerLevelGarageApache_1959",
+      "grsp": [
+        2.74,
+        1.57,
+        1.0,
+        0.667
+      ],
+      "fidr": 3.33,
+      "apiid": 2067,
+      "oriid": 2067,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": 1410,
+      "orlid": 1410,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Chevrolet_LowerLevelGarageApache_1959_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_LowerLevelGarageApache_1959_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.112,
+      "tthm": 16.046,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2727,
+      "inid": 2067,
+      "caid": 5,
+      "lzsid": 9,
+      "livid": 1410,
+      "whbn": "Wheel1A_3D"
+    }

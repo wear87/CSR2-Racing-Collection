@@ -1,0 +1,133 @@
+{
+      "unid": 7527,
+      "crdb": "Chevrolet_WolfeKustomsBelAir_1957",
+      "grsp": [
+        2.97,
+        2.1,
+        1.46,
+        1.0,
+        0.8,
+        0.63
+      ],
+      "fidr": 3.7,
+      "apiid": 2069,
+      "oriid": 2069,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": 1411,
+      "orlid": 1411,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Chevrolet_WolfeKustomsBelAir_1957_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_WolfeKustomsBelAir_1957_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 9.844,
+      "tthm": 16.068,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2733,
+      "inid": 2069,
+      "caid": 5,
+      "lzsid": 9,
+      "livid": 1411,
+      "whbn": "Wheel1A_3D"
+    }

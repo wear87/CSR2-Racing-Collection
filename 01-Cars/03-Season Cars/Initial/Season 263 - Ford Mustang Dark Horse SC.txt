@@ -1,0 +1,134 @@
+{
+      "unid": 7480,
+      "crdb": "Ford_MustangDarkHorseSCReward_2025",
+      "grsp": [
+        3.4,
+        2.19,
+        1.63,
+        1.29,
+        1.03,
+        0.84,
+        0.634
+      ],
+      "fidr": 3.67,
+      "apiid": 2061,
+      "oriid": 2061,
+      "apcid": 378,
+      "orcid": 378,
+      "aplid": 1404,
+      "orlid": 1404,
+      "aplzsid": 7,
+      "orlzsid": 7,
+      "apcn": [
+        "Ford_MustangDarkHorseSCReward_2025_Wheel1A_3D"
+      ],
+      "opcn": "Ford_MustangDarkHorseSCReward_2025_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.279,
+      "tthm": 16.044,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2720,
+      "inid": 2061,
+      "caid": 378,
+      "lzsid": 7,
+      "livid": 1404,
+      "whbn": "Wheel1A_3D"
+    }

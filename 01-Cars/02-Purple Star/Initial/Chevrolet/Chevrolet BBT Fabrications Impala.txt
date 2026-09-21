@@ -1,0 +1,131 @@
+{
+      "unid": 7477,
+      "crdb": "Chevrolet_BBTImpala_1959",
+      "grsp": [
+        2.66,
+        1.78,
+        1.3,
+        1.0,
+        0.8,
+        0.63
+      ],
+      "fidr": 2.44,
+      "apiid": 2063,
+      "oriid": 2063,
+      "apcid": 377,
+      "orcid": 377,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Chevrolet_BBTImpala_1959_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_BBTImpala_1959_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.317,
+      "tthm": 16.044,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2721,
+      "inid": 2063,
+      "caid": 377,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

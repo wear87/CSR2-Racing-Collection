@@ -1,0 +1,130 @@
+{
+      "unid": 7632,
+      "crdb": "Honda_CivicEGTNR_1995",
+      "grsp": [
+        3.23,
+        2.105,
+        1.458,
+        1.107,
+        0.848
+      ],
+      "fidr": 3.11,
+      "apiid": 1000139,
+      "oriid": 1000139,
+      "apcid": 1000132,
+      "orcid": 1000132,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Honda_CivicEGTNR_1995_Wheel1A_Alpha"
+      ],
+      "opcn": "Honda_CivicEGTNR_1995_Wheel1A_Alpha",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 0,
+      "cppi": 603,
+      "ttqm": 10.106,
+      "tthm": 16.056,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 1000139,
+      "inid": 1000139,
+      "caid": 1000132,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_Alpha"
+    }

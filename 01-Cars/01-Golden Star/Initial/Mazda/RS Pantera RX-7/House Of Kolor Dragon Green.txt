@@ -1,0 +1,135 @@
+{
+      "unid": 7640,
+      "crdb": "Mazda_RX7RSPantera_1993",
+      "grsp": [
+        3.626,
+        2.188,
+        1.541,
+        1.213,
+        1.0,
+        0.76
+      ],
+      "fidr": 4.1,
+      "appi": 4,
+      "orpi": 4,
+      "apiid": 2105,
+      "oriid": 2105,
+      "apcid": 5,
+      "orcid": 5,
+      "aplid": 1424,
+      "orlid": 1424,
+      "aplzsid": 9,
+      "orlzsid": 9,
+      "apcn": [
+        "Mazda_RX7RSPantera_1993_Wheel2A_3D"
+      ],
+      "opcn": "Mazda_RX7RSPantera_1993_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 1,
+      "cppi": 161,
+      "ttqm": 15.389,
+      "tthm": 24.412,
+      "ctie": "TIER_1",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2726,
+      "inid": 2105,
+      "caid": 5,
+      "lzsid": 9,
+      "livid": 1424,
+      "whbn": "Wheel2A_3D"
+    }

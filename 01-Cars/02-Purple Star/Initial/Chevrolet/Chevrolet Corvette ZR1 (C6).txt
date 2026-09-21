@@ -1,0 +1,129 @@
+{
+      "unid": 7475,
+      "crdb": "Chevrolet_CorvetteC6ZR1_2012",
+      "grsp": [
+        2.29,
+        1.61,
+        1.21,
+        1.0,
+        0.82,
+        0.68
+      ],
+      "fidr": 2.33,
+      "apiid": 2059,
+      "oriid": 2059,
+      "apcid": 376,
+      "orcid": 376,
+      "apcn": [
+        "Chevrolet_CorvetteC6ZR1_2012_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_CorvetteC6ZR1_2012_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.565,
+      "tthm": 16.074,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2718,
+      "inid": 2059,
+      "caid": 376,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

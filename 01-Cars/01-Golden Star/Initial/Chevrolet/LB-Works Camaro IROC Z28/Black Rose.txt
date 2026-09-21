@@ -1,0 +1,133 @@
+{
+      "unid": 7534,
+      "crdb": "Chevrolet_LBCamaroIROCZRewardRecycled_1987",
+      "grsp": [
+        2.48,
+        1.48,
+        1.0,
+        0.75
+      ],
+      "fidr": 3.5,
+      "appi": 9,
+      "orpi": 9,
+      "apiid": 252,
+      "oriid": 252,
+      "apcid": 233,
+      "orcid": 233,
+      "aplid": 1414,
+      "orlid": 1414,
+      "aplzsid": 0,
+      "orlzsid": 0,
+      "apcn": [
+        "Chevrolet_LBCamaroIROCZRewardRecycled_1987_Wheel1A_3D"
+      ],
+      "opcn": "Chevrolet_LBCamaroIROCZRewardRecycled_1987_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.205,
+      "tthm": 16.066,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 904,
+      "inid": 252,
+      "caid": 233,
+      "lzsid": 0,
+      "livid": 1414,
+      "whbn": "Wheel1A_3D"
+    }
