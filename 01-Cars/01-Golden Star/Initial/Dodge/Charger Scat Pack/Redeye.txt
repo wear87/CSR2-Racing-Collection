@@ -1,0 +1,142 @@
+{
+      "unid": 7610,
+      "crdb": "Dodge_ChargerSixpackRewardRecycled_2025",
+      "grsp": [
+        5.5,
+        3.52,
+        2.2,
+        1.72,
+        1.32,
+        1.0,
+        0.83,
+        0.64
+      ],
+      "fidr": 2.66,
+      "nlpr": 0.0,
+      "tafr": 0.0,
+      "titp": 0.0,
+      "tssp": 0.0,
+      "tssr": 0.0,
+      "ttup": 0.0,
+      "ttpp": 0.0,
+      "appi": 1,
+      "orpi": 1,
+      "apiid": 1198,
+      "oriid": 1198,
+      "apcid": 20,
+      "orcid": 20,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Dodge_ChargerSixpackRewardRecycled_2025_Wheel1A_3D"
+      ],
+      "opcn": "Dodge_ChargerSixpackRewardRecycled_2025_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 603,
+      "ttqm": 10.024,
+      "tthm": 16.059,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2395,
+      "inid": 1198,
+      "caid": 20,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

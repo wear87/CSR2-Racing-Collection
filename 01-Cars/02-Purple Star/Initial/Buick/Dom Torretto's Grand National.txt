@@ -1,0 +1,132 @@
+{
+      "unid": 7590,
+      "crdb": "Buick_GrandNationalF4_1987",
+      "grsp": [
+        2.482,
+        1.482,
+        1.0,
+        0.75
+      ],
+      "fidr": 3.42,
+      "nlpr": 0.0,
+      "tafr": 0.0,
+      "titp": 0.0,
+      "tssp": 0.0,
+      "tssr": 0.0,
+      "ttup": 0.0,
+      "ttpp": 0.0,
+      "apiid": 2071,
+      "oriid": 2071,
+      "apcn": [
+        "Buick_GrandNationalF4_1987_Wheel1A_3D"
+      ],
+      "opcn": "Buick_GrandNationalF4_1987_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 3,
+      "cppi": 603,
+      "ttqm": 10.946,
+      "tthm": 18.389,
+      "ctie": "TIER_5",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2096,
+      "inid": 2071,
+      "caid": 0,
+      "lzsid": -2147483648,
+      "livid": -2147483648,
+      "whbn": "Wheel1A_3D"
+    }

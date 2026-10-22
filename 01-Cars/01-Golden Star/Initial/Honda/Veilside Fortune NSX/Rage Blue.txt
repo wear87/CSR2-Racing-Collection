@@ -1,0 +1,139 @@
+{
+      "unid": 7627,
+      "crdb": "Honda_VeilsideNSXRewardRecycled_1995",
+      "grsp": [
+        3.071,
+        1.952,
+        1.4,
+        1.033,
+        0.771
+      ],
+      "fidr": 4.24,
+      "nlpr": 0.0,
+      "tafr": 0.0,
+      "titp": 0.0,
+      "tssp": 0.0,
+      "tssr": 0.0,
+      "ttup": 0.0,
+      "ttpp": 0.0,
+      "appi": 8,
+      "orpi": 8,
+      "apiid": 2097,
+      "oriid": 2097,
+      "apcid": 265,
+      "orcid": 265,
+      "aplzsid": -1,
+      "orlzsid": -1,
+      "apcn": [
+        "Honda_VeilsideNSXRewardRecycled_1995_Wheel1B_3D"
+      ],
+      "opcn": "Honda_VeilsideNSXRewardRecycled_1995_Wheel1A_3D",
+      "upst": [
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "lvls": [
+            {
+              "ulpf": true
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      ],
+      "fpin": 2,
+      "cppi": 501,
+      "ttqm": 11.659,
+      "tthm": 18.217,
+      "ctie": "TIER_4",
+      "csrc": "Gacha",
+      "nupl": {
+        "cpf": false
+      },
+      "paid": 2339,
+      "inid": 2097,
+      "caid": 265,
+      "lzsid": -1,
+      "livid": -2147483648,
+      "whbn": "Wheel1B_3D"
+    }
